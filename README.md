@@ -4,11 +4,12 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
-Author: Dr. Chem Vatho (PhD in Phonetics, University of Cologne: 2022-25)
-Submission for Posdoctoral position: Research Proposal for VolkswagenStiftung Project
-Project: Exploring an unknown language in an unknown writing system: The Isthmus script
-Institution: University of Cologne, Department of Linguistics
-Led by: Dr. Svenja Bonmann 
+
+1. -Author: Dr. Chem Vatho (PhD in Phonetics, University of Cologne: 2022-25)
+2. -Submission for Posdoctoral position: Research Proposal for VolkswagenStiftung Project
+3. -Project: Exploring an unknown language in an unknown writing system: The Isthmus script
+4. -Institution: University of Cologne, Department of Linguistics
+5. -Led by: Dr. Svenja Bonmann 
 
 A computational approach to evaluating competing language family hypotheses for the undeciphered Isthmian (Epi-Olmec) script using Bayesian phonotactic analysis.
 
