@@ -1,0 +1,32 @@
+category,metric,value,notes
+Corpus Overview,Total tokens,576,All sign tokens in corpus
+Corpus Overview,Unique signs,204,Distinct sign types
+Corpus Overview,MS20 occurrences,45,Boundary marker count
+Corpus Overview,Eroded signs,31,Damaged/unreadable tokens
+Corpus Overview,Readable signs,545,Non-eroded tokens
+Text: Chiapa de Corzo,Total tokens,5,CD
+Text: Chiapa de Corzo,MS20 count,1,Boundary markers
+Text: Chiapa de Corzo,Columns,2,Number of columns
+Text: Ceramic Mask,Total tokens,23,CM
+Text: Ceramic Mask,MS20 count,0,Boundary markers
+Text: Ceramic Mask,Columns,11,Number of columns
+Text: Feldspar Mask,Total tokens,86,FM
+Text: Feldspar Mask,MS20 count,0,Boundary markers
+Text: Feldspar Mask,Columns,13,Number of columns
+Text: La Mojarra Stela 1,Total tokens,403,LM
+Text: La Mojarra Stela 1,MS20 count,35,Boundary markers
+Text: La Mojarra Stela 1,Columns,43,Number of columns
+Text: Tuxtla Statuette,Total tokens,59,TS
+Text: Tuxtla Statuette,MS20 count,9,Boundary markers
+Text: Tuxtla Statuette,Columns,17,Number of columns
+Segment Statistics,Total segments,118,MS20-delimited units
+Segment Statistics,Mean segment length,4.88,Signs per segment
+Segment Statistics,Std segment length,4.44,Standard deviation
+Segment Statistics,Min segment length,1,Shortest segment
+Segment Statistics,Max segment length,23,Longest segment
+Sign Frequency,Most frequent sign,MS20 (45),MS20 = boundary marker
+Sign Frequency,Hapax legomena,79,Signs occurring once
+Sign Frequency,Hapax ratio,0.457,Proportion of hapax
+Decipherability Index,qW (Vonk 2020),0.317,Must be << 0.1 for unique decipherment
+Decipherability Index,Threshold,0.1,Required for unique decipherment
+Decipherability Index,Assessment,INSUFFICIENT,Corpus size for unique decipherment

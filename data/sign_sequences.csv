@@ -1,0 +1,577 @@
+token_id,text_id,text_name,column,sequence_id,position_in_column,segment_id,position_in_segment,sign_token,ms_number,is_boundary_MS20,is_eroded
+1,CD,Chiapa de Corzo,BO,CD_BO,1,CD_BO_seg001,1,MS124,124.0,0,0
+2,CD,Chiapa de Corzo,BO,CD_BO,2,CD_BO_seg001,2,MS20,20.0,1,0
+3,CD,Chiapa de Corzo,BO,CD_BO,3,CD_BO_seg002,1,ERODED_0.01,,0,1
+4,CD,Chiapa de Corzo,BO,CD_BO,4,CD_BO_seg002,2,ERODED_0.02,,0,1
+5,CD,Chiapa de Corzo,CO,CD_CO,1,CD_CO_seg001,1,ERODED_0.04,,0,1
+6,CM,Ceramic Mask,A,CM_A,1,CM_A_seg001,1,ERODED_0.05,,0,1
+7,CM,Ceramic Mask,A,CM_A,2,CM_A_seg001,2,ERODED_0.06,,0,1
+8,CM,Ceramic Mask,A,CM_A,3,CM_A_seg001,3,ERODED_0.07,,0,1
+9,CM,Ceramic Mask,BO,CM_BO,1,CM_BO_seg001,1,ERODED_0.08,,0,1
+10,CM,Ceramic Mask,BO,CM_BO,2,CM_BO_seg001,2,ERODED_0.09,,0,1
+11,CM,Ceramic Mask,BO,CM_BO,3,CM_BO_seg001,3,MS1,1.0,0,0
+12,CM,Ceramic Mask,BO,CM_BO,4,CM_BO_seg001,4,ERODED_0.11,,0,1
+13,CM,Ceramic Mask,C,CM_C,1,CM_C_seg001,1,MS150,150.0,0,0
+14,CM,Ceramic Mask,CO,CM_CO,1,CM_CO_seg001,1,MS164,164.0,0,0
+15,CM,Ceramic Mask,CO,CM_CO,2,CM_CO_seg001,2,MS7,7.0,0,0
+16,CM,Ceramic Mask,CO,CM_CO,3,CM_CO_seg001,3,MS44,44.0,0,0
+17,CM,Ceramic Mask,DO,CM_DO,1,CM_DO_seg001,1,ERODED_0.12,,0,1
+18,CM,Ceramic Mask,DO,CM_DO,2,CM_DO_seg001,2,ERODED_0.13,,0,1
+19,CM,Ceramic Mask,DO,CM_DO,3,CM_DO_seg001,3,MS149,149.0,0,0
+20,CM,Ceramic Mask,E,CM_E,1,CM_E_seg001,1,MS169,169.0,0,0
+21,CM,Ceramic Mask,E,CM_E,2,CM_E_seg001,2,ERODED_0.16,,0,1
+22,CM,Ceramic Mask,FO,CM_FO,1,CM_FO_seg001,1,MS169,169.0,0,0
+23,CM,Ceramic Mask,FO,CM_FO,2,CM_FO_seg001,2,ERODED_0.17,,0,1
+24,CM,Ceramic Mask,G,CM_G,1,CM_G_seg001,1,MS56,56.0,0,0
+25,CM,Ceramic Mask,G,CM_G,2,CM_G_seg001,2,ERODED_0.19,,0,1
+26,CM,Ceramic Mask,GO,CM_GO,1,CM_GO_seg001,1,ERODED_0.18,,0,1
+27,CM,Ceramic Mask,MD,CM_MD,1,CM_MD_seg001,1,ERODED_0.14,,0,1
+28,CM,Ceramic Mask,TO,CM_TO,1,CM_TO_seg001,1,ERODED_0.15,,0,1
+29,FM,Feldspar Mask,,FM_misc,1,FM_misc_seg001,1,MS87,87.0,0,0
+30,FM,Feldspar Mask,,FM_misc,2,FM_misc_seg001,2,MS219,219.0,0,0
+31,FM,Feldspar Mask,,FM_misc,3,FM_misc_seg001,3,MS39,39.0,0,0
+32,FM,Feldspar Mask,,FM_misc,4,FM_misc_seg001,4,MS79,79.0,0,0
+33,FM,Feldspar Mask,A,FM_A,1,FM_A_seg001,1,MS208,208.0,0,0
+34,FM,Feldspar Mask,A,FM_A,2,FM_A_seg001,2,MS13,13.0,0,0
+35,FM,Feldspar Mask,A,FM_A,3,FM_A_seg001,3,MS210,210.0,0,0
+36,FM,Feldspar Mask,AO,FM_AO,1,FM_AO_seg001,1,MS169,169.0,0,0
+37,FM,Feldspar Mask,AO,FM_AO,2,FM_AO_seg001,2,MS201,201.0,0,0
+38,FM,Feldspar Mask,AO,FM_AO,3,FM_AO_seg001,3,MS214,214.0,0,0
+39,FM,Feldspar Mask,AO,FM_AO,4,FM_AO_seg001,4,MS2,2.0,0,0
+40,FM,Feldspar Mask,AO,FM_AO,5,FM_AO_seg001,5,MS63,63.0,0,0
+41,FM,Feldspar Mask,AO,FM_AO,6,FM_AO_seg001,6,MS88,88.0,0,0
+42,FM,Feldspar Mask,B,FM_B,1,FM_B_seg001,1,MS28,28.0,0,0
+43,FM,Feldspar Mask,B,FM_B,2,FM_B_seg001,2,MS93,93.0,0,0
+44,FM,Feldspar Mask,B,FM_B,3,FM_B_seg001,3,MS100,100.0,0,0
+45,FM,Feldspar Mask,B,FM_B,4,FM_B_seg001,4,MS5,5.0,0,0
+46,FM,Feldspar Mask,B,FM_B,5,FM_B_seg001,5,MS125,125.0,0,0
+47,FM,Feldspar Mask,B,FM_B,6,FM_B_seg001,6,MS205,205.0,0,0
+48,FM,Feldspar Mask,B,FM_B,7,FM_B_seg001,7,MS63,63.0,0,0
+49,FM,Feldspar Mask,B,FM_B,8,FM_B_seg001,8,ERODED_0.20,,0,1
+50,FM,Feldspar Mask,BO,FM_BO,1,FM_BO_seg001,1,MS28,28.0,0,0
+51,FM,Feldspar Mask,BO,FM_BO,2,FM_BO_seg001,2,MS124,124.0,0,0
+52,FM,Feldspar Mask,BO,FM_BO,3,FM_BO_seg001,3,MS202,202.0,0,0
+53,FM,Feldspar Mask,BO,FM_BO,4,FM_BO_seg001,4,MS203,203.0,0,0
+54,FM,Feldspar Mask,BO,FM_BO,5,FM_BO_seg001,5,MS164,164.0,0,0
+55,FM,Feldspar Mask,C,FM_C,1,FM_C_seg001,1,MS28,28.0,0,0
+56,FM,Feldspar Mask,C,FM_C,2,FM_C_seg001,2,MS213,213.0,0,0
+57,FM,Feldspar Mask,C,FM_C,3,FM_C_seg001,3,ERODED_0.21,,0,1
+58,FM,Feldspar Mask,C,FM_C,4,FM_C_seg001,4,MS141,141.0,0,0
+59,FM,Feldspar Mask,C,FM_C,5,FM_C_seg001,5,MS99,99.0,0,0
+60,FM,Feldspar Mask,C,FM_C,6,FM_C_seg001,6,MS9,9.0,0,0
+61,FM,Feldspar Mask,C,FM_C,7,FM_C_seg001,7,MS209,209.0,0,0
+62,FM,Feldspar Mask,CO,FM_CO,1,FM_CO_seg001,1,MS162,162.0,0,0
+63,FM,Feldspar Mask,CO,FM_CO,2,FM_CO_seg001,2,MS169,169.0,0,0
+64,FM,Feldspar Mask,CO,FM_CO,3,FM_CO_seg001,3,MS39,39.0,0,0
+65,FM,Feldspar Mask,CO,FM_CO,4,FM_CO_seg001,4,MS141,141.0,0,0
+66,FM,Feldspar Mask,CO,FM_CO,5,FM_CO_seg001,5,MS149,149.0,0,0
+67,FM,Feldspar Mask,CO,FM_CO,6,FM_CO_seg001,6,MS42,42.0,0,0
+68,FM,Feldspar Mask,CO,FM_CO,7,FM_CO_seg001,7,MS93,93.0,0,0
+69,FM,Feldspar Mask,CO,FM_CO,8,FM_CO_seg001,8,MS100,100.0,0,0
+70,FM,Feldspar Mask,CO,FM_CO,9,FM_CO_seg001,9,MS7,7.0,0,0
+71,FM,Feldspar Mask,CO,FM_CO,10,FM_CO_seg001,10,MS10,10.0,0,0
+72,FM,Feldspar Mask,CO,FM_CO,11,FM_CO_seg001,11,MS39,39.0,0,0
+73,FM,Feldspar Mask,CO,FM_CO,12,FM_CO_seg001,12,MS141,141.0,0,0
+74,FM,Feldspar Mask,D,FM_D,1,FM_D_seg001,1,MS39,39.0,0,0
+75,FM,Feldspar Mask,D,FM_D,2,FM_D_seg001,2,MS165,165.0,0,0
+76,FM,Feldspar Mask,D,FM_D,3,FM_D_seg001,3,MS57,57.0,0,0
+77,FM,Feldspar Mask,D,FM_D,4,FM_D_seg001,4,MS93,93.0,0,0
+78,FM,Feldspar Mask,D,FM_D,5,FM_D_seg001,5,MS100,100.0,0,0
+79,FM,Feldspar Mask,D,FM_D,6,FM_D_seg001,6,ERODED_0.22,,0,1
+80,FM,Feldspar Mask,D,FM_D,7,FM_D_seg001,7,MS150,150.0,0,0
+81,FM,Feldspar Mask,D,FM_D,8,FM_D_seg001,8,MS207,207.0,0,0
+82,FM,Feldspar Mask,D,FM_D,9,FM_D_seg001,9,MS216,216.0,0,0
+83,FM,Feldspar Mask,D,FM_D,10,FM_D_seg001,10,MS155,155.0,0,0
+84,FM,Feldspar Mask,DO,FM_DO,1,FM_DO_seg001,1,MS169,169.0,0,0
+85,FM,Feldspar Mask,DO,FM_DO,2,FM_DO_seg001,2,MS214,214.0,0,0
+86,FM,Feldspar Mask,DO,FM_DO,3,FM_DO_seg001,3,MS141,141.0,0,0
+87,FM,Feldspar Mask,DO,FM_DO,4,FM_DO_seg001,4,MS39,39.0,0,0
+88,FM,Feldspar Mask,DO,FM_DO,5,FM_DO_seg001,5,MS149,149.0,0,0
+89,FM,Feldspar Mask,DO,FM_DO,6,FM_DO_seg001,6,MS42,42.0,0,0
+90,FM,Feldspar Mask,DO,FM_DO,7,FM_DO_seg001,7,MS141,141.0,0,0
+91,FM,Feldspar Mask,DO,FM_DO,8,FM_DO_seg001,8,MS218,218.0,0,0
+92,FM,Feldspar Mask,DO,FM_DO,9,FM_DO_seg001,9,MS138,138.0,0,0
+93,FM,Feldspar Mask,E,FM_E,1,FM_E_seg001,1,MS139,139.0,0,0
+94,FM,Feldspar Mask,E,FM_E,2,FM_E_seg001,2,MS169,169.0,0,0
+95,FM,Feldspar Mask,E,FM_E,3,FM_E_seg001,3,MS39,39.0,0,0
+96,FM,Feldspar Mask,E,FM_E,4,FM_E_seg001,4,MS141,141.0,0,0
+97,FM,Feldspar Mask,E,FM_E,5,FM_E_seg001,5,MS63,63.0,0,0
+98,FM,Feldspar Mask,E,FM_E,6,FM_E_seg001,6,MS202,202.0,0,0
+99,FM,Feldspar Mask,E,FM_E,7,FM_E_seg001,7,MS57,57.0,0,0
+100,FM,Feldspar Mask,E,FM_E,8,FM_E_seg001,8,MS214,214.0,0,0
+101,FM,Feldspar Mask,EO,FM_EO,1,FM_EO_seg001,1,MS141,141.0,0,0
+102,FM,Feldspar Mask,EO,FM_EO,2,FM_EO_seg001,2,MS63,63.0,0,0
+103,FM,Feldspar Mask,EO,FM_EO,3,FM_EO_seg001,3,MS162,162.0,0,0
+104,FM,Feldspar Mask,EO,FM_EO,4,FM_EO_seg001,4,MS217,217.0,0,0
+105,FM,Feldspar Mask,F,FM_F,1,FM_F_seg001,1,MS39,39.0,0,0
+106,FM,Feldspar Mask,F,FM_F,2,FM_F_seg001,2,MS141,141.0,0,0
+107,FM,Feldspar Mask,F,FM_F,3,FM_F_seg001,3,MS99,99.0,0,0
+108,FM,Feldspar Mask,F,FM_F,4,FM_F_seg001,4,MS204,204.0,0,0
+109,FM,Feldspar Mask,FO,FM_FO,1,FM_FO_seg001,1,MS212,212.0,0,0
+110,FM,Feldspar Mask,FO,FM_FO,2,FM_FO_seg001,2,MS154,154.0,0,0
+111,FM,Feldspar Mask,FO,FM_FO,3,FM_FO_seg001,3,MS28,28.0,0,0
+112,FM,Feldspar Mask,FO,FM_FO,4,FM_FO_seg001,4,MS54,54.0,0,0
+113,FM,Feldspar Mask,LO,FM_LO,1,FM_LO_seg001,1,MS39,39.0,0,0
+114,FM,Feldspar Mask,LO,FM_LO,2,FM_LO_seg001,2,MS207,207.0,0,0
+115,LM,La Mojarra Stela 1,,LM_misc,1,LM_misc_seg001,1,MS166,166.0,0,0
+116,LM,La Mojarra Stela 1,,LM_misc,2,LM_misc_seg001,2,MS72,72.0,0,0
+117,LM,La Mojarra Stela 1,,LM_misc,3,LM_misc_seg001,3,MS45,45.0,0,0
+118,LM,La Mojarra Stela 1,,LM_misc,4,LM_misc_seg001,4,MS45,45.0,0,0
+119,LM,La Mojarra Stela 1,,LM_misc,5,LM_misc_seg001,5,MS63,63.0,0,0
+120,LM,La Mojarra Stela 1,,LM_misc,6,LM_misc_seg001,6,MS83,83.0,0,0
+121,LM,La Mojarra Stela 1,,LM_misc,7,LM_misc_seg001,7,MS65,65.0,0,0
+122,LM,La Mojarra Stela 1,,LM_misc,8,LM_misc_seg001,8,MS144,144.0,0,0
+123,LM,La Mojarra Stela 1,,LM_misc,9,LM_misc_seg001,9,MS38,38.0,0,0
+124,LM,La Mojarra Stela 1,,LM_misc,10,LM_misc_seg001,10,MS66,66.0,0,0
+125,LM,La Mojarra Stela 1,,LM_misc,11,LM_misc_seg001,11,MS80,80.0,0,0
+126,LM,La Mojarra Stela 1,,LM_misc,12,LM_misc_seg001,12,MS38,38.0,0,0
+127,LM,La Mojarra Stela 1,,LM_misc,13,LM_misc_seg001,13,MS20,20.0,1,0
+128,LM,La Mojarra Stela 1,,LM_misc,14,LM_misc_seg002,1,MS171,171.0,0,0
+129,LM,La Mojarra Stela 1,,LM_misc,15,LM_misc_seg002,2,MS172,172.0,0,0
+130,LM,La Mojarra Stela 1,,LM_misc,16,LM_misc_seg002,3,MS88,88.0,0,0
+131,LM,La Mojarra Stela 1,,LM_misc,17,LM_misc_seg002,4,MS20,20.0,1,0
+132,LM,La Mojarra Stela 1,A,LM_A,1,LM_A_seg001,1,MS100,100.0,0,0
+133,LM,La Mojarra Stela 1,A,LM_A,2,LM_A_seg001,2,MS5,5.0,0,0
+134,LM,La Mojarra Stela 1,A,LM_A,3,LM_A_seg001,3,MS42,42.0,0,0
+135,LM,La Mojarra Stela 1,A,LM_A,4,LM_A_seg001,4,MS95,95.0,0,0
+136,LM,La Mojarra Stela 1,A,LM_A,5,LM_A_seg001,5,MS72,72.0,0,0
+137,LM,La Mojarra Stela 1,A,LM_A,6,LM_A_seg001,6,MS52,52.0,0,0
+138,LM,La Mojarra Stela 1,A,LM_A,7,LM_A_seg001,7,MS105,105.0,0,0
+139,LM,La Mojarra Stela 1,A,LM_A,8,LM_A_seg001,8,MS79,79.0,0,0
+140,LM,La Mojarra Stela 1,A,LM_A,9,LM_A_seg001,9,MS124,124.0,0,0
+141,LM,La Mojarra Stela 1,A,LM_A,10,LM_A_seg001,10,MS24,24.0,0,0
+142,LM,La Mojarra Stela 1,A,LM_A,11,LM_A_seg001,11,MS75,75.0,0,0
+143,LM,La Mojarra Stela 1,A,LM_A,12,LM_A_seg001,12,MS24,24.0,0,0
+144,LM,La Mojarra Stela 1,A,LM_A,13,LM_A_seg001,13,MS44,44.0,0,0
+145,LM,La Mojarra Stela 1,A,LM_A,14,LM_A_seg001,14,MS28,28.0,0,0
+146,LM,La Mojarra Stela 1,A,LM_A,15,LM_A_seg001,15,MS117,117.0,0,0
+147,LM,La Mojarra Stela 1,A,LM_A,16,LM_A_seg001,16,MS147,147.0,0,0
+148,LM,La Mojarra Stela 1,A,LM_A,17,LM_A_seg001,17,MS170,170.0,0,0
+149,LM,La Mojarra Stela 1,A,LM_A,18,LM_A_seg001,18,MS24,24.0,0,0
+150,LM,La Mojarra Stela 1,A,LM_A,19,LM_A_seg001,19,MS173,173.0,0,0
+151,LM,La Mojarra Stela 1,AI,LM_AI,1,LM_AI_seg001,1,MS20,20.0,1,0
+152,LM,La Mojarra Stela 1,AI,LM_AI,2,LM_AI_seg002,1,MS121,121.0,0,0
+153,LM,La Mojarra Stela 1,AI,LM_AI,3,LM_AI_seg002,2,MS145,145.0,0,0
+154,LM,La Mojarra Stela 1,AI,LM_AI,4,LM_AI_seg002,3,MS119,119.0,0,0
+155,LM,La Mojarra Stela 1,AI,LM_AI,5,LM_AI_seg002,4,MS45,45.0,0,0
+156,LM,La Mojarra Stela 1,AO,LM_AO,1,LM_AO_seg001,1,MS110,110.0,0,0
+157,LM,La Mojarra Stela 1,AO,LM_AO,2,LM_AO_seg001,2,MS3,3.0,0,0
+158,LM,La Mojarra Stela 1,AO,LM_AO,3,LM_AO_seg001,3,MS3,3.0,0,0
+159,LM,La Mojarra Stela 1,AO,LM_AO,4,LM_AO_seg001,4,MS3,3.0,0,0
+160,LM,La Mojarra Stela 1,AO,LM_AO,5,LM_AO_seg001,5,MS5,5.0,0,0
+161,LM,La Mojarra Stela 1,AQ,LM_AQ,1,LM_AQ_seg001,1,MS26,26.0,0,0
+162,LM,La Mojarra Stela 1,AQ,LM_AQ,2,LM_AQ_seg001,2,MS56,56.0,0,0
+163,LM,La Mojarra Stela 1,B,LM_B,1,LM_B_seg001,1,MS20,20.0,1,0
+164,LM,La Mojarra Stela 1,BO,LM_BO,1,LM_BO_seg001,1,MS114,114.0,0,0
+165,LM,La Mojarra Stela 1,BO,LM_BO,2,LM_BO_seg001,2,MS143,143.0,0,0
+166,LM,La Mojarra Stela 1,BO,LM_BO,3,LM_BO_seg001,3,MS125,125.0,0,0
+167,LM,La Mojarra Stela 1,BO,LM_BO,4,LM_BO_seg001,4,MS152,152.0,0,0
+168,LM,La Mojarra Stela 1,BO,LM_BO,5,LM_BO_seg001,5,MS104,104.0,0,0
+169,LM,La Mojarra Stela 1,BO,LM_BO,6,LM_BO_seg001,6,MS109,109.0,0,0
+170,LM,La Mojarra Stela 1,CO,LM_CO,1,LM_CO_seg001,1,MS63,63.0,0,0
+171,LM,La Mojarra Stela 1,CO,LM_CO,2,LM_CO_seg001,2,MS30,30.0,0,0
+172,LM,La Mojarra Stela 1,CO,LM_CO,3,LM_CO_seg001,3,MS31,31.0,0,0
+173,LM,La Mojarra Stela 1,CO,LM_CO,4,LM_CO_seg001,4,MS20,20.0,1,0
+174,LM,La Mojarra Stela 1,CO,LM_CO,5,LM_CO_seg002,1,MS97,97.0,0,0
+175,LM,La Mojarra Stela 1,DO,LM_DO,1,LM_DO_seg001,1,MS63,63.0,0,0
+176,LM,La Mojarra Stela 1,DO,LM_DO,2,LM_DO_seg001,2,MS176,176.0,0,0
+177,LM,La Mojarra Stela 1,DO,LM_DO,3,LM_DO_seg001,3,MS150,150.0,0,0
+178,LM,La Mojarra Stela 1,DO,LM_DO,4,LM_DO_seg001,4,MS63,63.0,0,0
+179,LM,La Mojarra Stela 1,EO,LM_EO,1,LM_EO_seg001,1,MS184,184.0,0,0
+180,LM,La Mojarra Stela 1,EO,LM_EO,2,LM_EO_seg001,2,MS181,181.0,0,0
+181,LM,La Mojarra Stela 1,EO,LM_EO,3,LM_EO_seg001,3,MS20,20.0,1,0
+182,LM,La Mojarra Stela 1,EO,LM_EO,4,LM_EO_seg002,1,MS54,54.0,0,0
+183,LM,La Mojarra Stela 1,EO,LM_EO,5,LM_EO_seg002,2,MS59,59.0,0,0
+184,LM,La Mojarra Stela 1,FO,LM_FO,1,LM_FO_seg001,1,MS128,128.0,0,0
+185,LM,La Mojarra Stela 1,FO,LM_FO,2,LM_FO_seg001,2,MS63,63.0,0,0
+186,LM,La Mojarra Stela 1,FO,LM_FO,3,LM_FO_seg001,3,MS38,38.0,0,0
+187,LM,La Mojarra Stela 1,FO,LM_FO,4,LM_FO_seg001,4,MS170,170.0,0,0
+188,LM,La Mojarra Stela 1,FO,LM_FO,5,LM_FO_seg001,5,MS20,20.0,1,0
+189,LM,La Mojarra Stela 1,G,LM_G,1,LM_G_seg001,1,MS63,63.0,0,0
+190,LM,La Mojarra Stela 1,GO,LM_GO,1,LM_GO_seg001,1,MS163,163.0,0,0
+191,LM,La Mojarra Stela 1,GO,LM_GO,2,LM_GO_seg001,2,MS96,96.0,0,0
+192,LM,La Mojarra Stela 1,GO,LM_GO,3,LM_GO_seg001,3,MS136,136.0,0,0
+193,LM,La Mojarra Stela 1,GO,LM_GO,4,LM_GO_seg001,4,MS63,63.0,0,0
+194,LM,La Mojarra Stela 1,GO,LM_GO,5,LM_GO_seg001,5,MS44,44.0,0,0
+195,LM,La Mojarra Stela 1,HO,LM_HO,1,LM_HO_seg001,1,MS176,176.0,0,0
+196,LM,La Mojarra Stela 1,HO,LM_HO,2,LM_HO_seg001,2,MS20,20.0,1,0
+197,LM,La Mojarra Stela 1,HO,LM_HO,3,LM_HO_seg002,1,MS38,38.0,0,0
+198,LM,La Mojarra Stela 1,HO,LM_HO,4,LM_HO_seg002,2,MS101,101.0,0,0
+199,LM,La Mojarra Stela 1,I,LM_I,1,LM_I_seg001,1,MS13,13.0,0,0
+200,LM,La Mojarra Stela 1,I,LM_I,2,LM_I_seg001,2,MS72,72.0,0,0
+201,LM,La Mojarra Stela 1,I,LM_I,3,LM_I_seg001,3,MS85,85.0,0,0
+202,LM,La Mojarra Stela 1,I,LM_I,4,LM_I_seg001,4,MS64,64.0,0,0
+203,LM,La Mojarra Stela 1,IO,LM_IO,1,LM_IO_seg001,1,MS49,49.0,0,0
+204,LM,La Mojarra Stela 1,KO,LM_KO,1,LM_KO_seg001,1,MS44,44.0,0,0
+205,LM,La Mojarra Stela 1,KO,LM_KO,2,LM_KO_seg001,2,MS124,124.0,0,0
+206,LM,La Mojarra Stela 1,KO,LM_KO,3,LM_KO_seg001,3,MS93,93.0,0,0
+207,LM,La Mojarra Stela 1,KO,LM_KO,4,LM_KO_seg001,4,MS103,103.0,0,0
+208,LM,La Mojarra Stela 1,KO,LM_KO,5,LM_KO_seg001,5,MS101,101.0,0,0
+209,LM,La Mojarra Stela 1,KO,LM_KO,6,LM_KO_seg001,6,MS33,33.0,0,0
+210,LM,La Mojarra Stela 1,KO,LM_KO,7,LM_KO_seg001,7,MS20,20.0,1,0
+211,LM,La Mojarra Stela 1,LO,LM_LO,1,LM_LO_seg001,1,MS182,182.0,0,0
+212,LM,La Mojarra Stela 1,LO,LM_LO,2,LM_LO_seg001,2,MS114,114.0,0,0
+213,LM,La Mojarra Stela 1,LO,LM_LO,3,LM_LO_seg001,3,MS119,119.0,0,0
+214,LM,La Mojarra Stela 1,LO,LM_LO,4,LM_LO_seg001,4,MS52,52.0,0,0
+215,LM,La Mojarra Stela 1,LO,LM_LO,5,LM_LO_seg001,5,MS44,44.0,0,0
+216,LM,La Mojarra Stela 1,LO,LM_LO,6,LM_LO_seg001,6,MS51,51.0,0,0
+217,LM,La Mojarra Stela 1,LO,LM_LO,7,LM_LO_seg001,7,MS138,138.0,0,0
+218,LM,La Mojarra Stela 1,M,LM_M,1,LM_M_seg001,1,MS169,169.0,0,0
+219,LM,La Mojarra Stela 1,M,LM_M,2,LM_M_seg001,2,MS156,156.0,0,0
+220,LM,La Mojarra Stela 1,M,LM_M,3,LM_M_seg001,3,MS125,125.0,0,0
+221,LM,La Mojarra Stela 1,M,LM_M,4,LM_M_seg001,4,MS15,15.0,0,0
+222,LM,La Mojarra Stela 1,M,LM_M,5,LM_M_seg001,5,MS8,8.0,0,0
+223,LM,La Mojarra Stela 1,M,LM_M,6,LM_M_seg001,6,MS16,16.0,0,0
+224,LM,La Mojarra Stela 1,M,LM_M,7,LM_M_seg001,7,MS154,154.0,0,0
+225,LM,La Mojarra Stela 1,MA,LM_MA,1,LM_MA_seg001,1,MS23,23.0,0,0
+226,LM,La Mojarra Stela 1,MA,LM_MA,2,LM_MA_seg001,2,MS20,20.0,1,0
+227,LM,La Mojarra Stela 1,MA,LM_MA,3,LM_MA_seg002,1,MS129,129.0,0,0
+228,LM,La Mojarra Stela 1,MO,LM_MO,1,LM_MO_seg001,1,MS171,171.0,0,0
+229,LM,La Mojarra Stela 1,MO,LM_MO,2,LM_MO_seg001,2,MS153,153.0,0,0
+230,LM,La Mojarra Stela 1,MO,LM_MO,3,LM_MO_seg001,3,MS140,140.0,0,0
+231,LM,La Mojarra Stela 1,MO,LM_MO,4,LM_MO_seg001,4,MS56,56.0,0,0
+232,LM,La Mojarra Stela 1,MO,LM_MO,5,LM_MO_seg001,5,MS103,103.0,0,0
+233,LM,La Mojarra Stela 1,MO,LM_MO,6,LM_MO_seg001,6,MS161,161.0,0,0
+234,LM,La Mojarra Stela 1,MO,LM_MO,7,LM_MO_seg001,7,MS20,20.0,1,0
+235,LM,La Mojarra Stela 1,MU,LM_MU,1,LM_MU_seg001,1,MS20,20.0,1,0
+236,LM,La Mojarra Stela 1,MV,LM_MV,1,LM_MV_seg001,1,ERODED_0.30,,0,1
+237,LM,La Mojarra Stela 1,MV,LM_MV,2,LM_MV_seg001,2,MS20,20.0,1,0
+238,LM,La Mojarra Stela 1,N,LM_N,1,LM_N_seg001,1,MS20,20.0,1,0
+239,LM,La Mojarra Stela 1,N,LM_N,2,LM_N_seg002,1,MS112,112.0,0,0
+240,LM,La Mojarra Stela 1,N,LM_N,3,LM_N_seg002,2,MS58,58.0,0,0
+241,LM,La Mojarra Stela 1,N,LM_N,4,LM_N_seg002,3,MS60,60.0,0,0
+242,LM,La Mojarra Stela 1,N,LM_N,5,LM_N_seg002,4,MS20,20.0,1,0
+243,LM,La Mojarra Stela 1,N,LM_N,6,LM_N_seg003,1,MS160,160.0,0,0
+244,LM,La Mojarra Stela 1,N,LM_N,7,LM_N_seg003,2,MS38,38.0,0,0
+245,LM,La Mojarra Stela 1,N,LM_N,8,LM_N_seg003,3,MS38,38.0,0,0
+246,LM,La Mojarra Stela 1,N,LM_N,9,LM_N_seg003,4,MS37,37.0,0,0
+247,LM,La Mojarra Stela 1,N,LM_N,10,LM_N_seg003,5,MS67,67.0,0,0
+248,LM,La Mojarra Stela 1,N,LM_N,11,LM_N_seg003,6,MS74,74.0,0,0
+249,LM,La Mojarra Stela 1,N,LM_N,12,LM_N_seg003,7,MS165,165.0,0,0
+250,LM,La Mojarra Stela 1,N,LM_N,13,LM_N_seg003,8,MS165,165.0,0,0
+251,LM,La Mojarra Stela 1,N,LM_N,14,LM_N_seg003,9,MS20,20.0,1,0
+252,LM,La Mojarra Stela 1,N,LM_N,15,LM_N_seg004,1,MS45,45.0,0,0
+253,LM,La Mojarra Stela 1,N,LM_N,16,LM_N_seg004,2,MS57,57.0,0,0
+254,LM,La Mojarra Stela 1,N,LM_N,17,LM_N_seg004,3,MS145,145.0,0,0
+255,LM,La Mojarra Stela 1,N,LM_N,18,LM_N_seg004,4,MS20,20.0,1,0
+256,LM,La Mojarra Stela 1,N,LM_N,19,LM_N_seg005,1,MS89,89.0,0,0
+257,LM,La Mojarra Stela 1,NI,LM_NI,1,LM_NI_seg001,1,MS153,153.0,0,0
+258,LM,La Mojarra Stela 1,NO,LM_NO,1,LM_NO_seg001,1,MS4,4.0,0,0
+259,LM,La Mojarra Stela 1,NO,LM_NO,2,LM_NO_seg001,2,MS137,137.0,0,0
+260,LM,La Mojarra Stela 1,NO,LM_NO,3,LM_NO_seg001,3,MS116,116.0,0,0
+261,LM,La Mojarra Stela 1,NO,LM_NO,4,LM_NO_seg001,4,MS42,42.0,0,0
+262,LM,La Mojarra Stela 1,NO,LM_NO,5,LM_NO_seg001,5,MS77,77.0,0,0
+263,LM,La Mojarra Stela 1,NO,LM_NO,6,LM_NO_seg001,6,MS182,182.0,0,0
+264,LM,La Mojarra Stela 1,NO,LM_NO,7,LM_NO_seg001,7,MS114,114.0,0,0
+265,LM,La Mojarra Stela 1,O,LM_O,1,LM_O_seg001,1,MS52,52.0,0,0
+266,LM,La Mojarra Stela 1,O,LM_O,2,LM_O_seg001,2,MS168,168.0,0,0
+267,LM,La Mojarra Stela 1,O,LM_O,3,LM_O_seg001,3,MS144,144.0,0,0
+268,LM,La Mojarra Stela 1,O,LM_O,4,LM_O_seg001,4,MS53,53.0,0,0
+269,LM,La Mojarra Stela 1,O,LM_O,5,LM_O_seg001,5,MS54,54.0,0,0
+270,LM,La Mojarra Stela 1,O,LM_O,6,LM_O_seg001,6,MS119,119.0,0,0
+271,LM,La Mojarra Stela 1,O,LM_O,7,LM_O_seg001,7,MS57,57.0,0,0
+272,LM,La Mojarra Stela 1,O,LM_O,8,LM_O_seg001,8,MS171,171.0,0,0
+273,LM,La Mojarra Stela 1,O,LM_O,9,LM_O_seg001,9,MS143,143.0,0,0
+274,LM,La Mojarra Stela 1,O,LM_O,10,LM_O_seg001,10,MS63,63.0,0,0
+275,LM,La Mojarra Stela 1,O,LM_O,11,LM_O_seg001,11,MS171,171.0,0,0
+276,LM,La Mojarra Stela 1,O,LM_O,12,LM_O_seg001,12,MS111,111.0,0,0
+277,LM,La Mojarra Stela 1,O,LM_O,13,LM_O_seg001,13,MS75,75.0,0,0
+278,LM,La Mojarra Stela 1,O,LM_O,14,LM_O_seg001,14,MS134,134.0,0,0
+279,LM,La Mojarra Stela 1,O,LM_O,15,LM_O_seg001,15,MS44,44.0,0,0
+280,LM,La Mojarra Stela 1,O,LM_O,16,LM_O_seg001,16,MS40,40.0,0,0
+281,LM,La Mojarra Stela 1,O,LM_O,17,LM_O_seg001,17,MS20,20.0,1,0
+282,LM,La Mojarra Stela 1,O,LM_O,18,LM_O_seg002,1,MS23,23.0,0,0
+283,LM,La Mojarra Stela 1,O,LM_O,19,LM_O_seg002,2,MS101,101.0,0,0
+284,LM,La Mojarra Stela 1,O,LM_O,20,LM_O_seg002,3,MS97,97.0,0,0
+285,LM,La Mojarra Stela 1,OO,LM_OO,1,LM_OO_seg001,1,MS13,13.0,0,0
+286,LM,La Mojarra Stela 1,P,LM_P,1,LM_P_seg001,1,MS129,129.0,0,0
+287,LM,La Mojarra Stela 1,P,LM_P,2,LM_P_seg001,2,MS54,54.0,0,0
+288,LM,La Mojarra Stela 1,P,LM_P,3,LM_P_seg001,3,MS44,44.0,0,0
+289,LM,La Mojarra Stela 1,P,LM_P,4,LM_P_seg001,4,MS50,50.0,0,0
+290,LM,La Mojarra Stela 1,P,LM_P,5,LM_P_seg001,5,MS101,101.0,0,0
+291,LM,La Mojarra Stela 1,P,LM_P,6,LM_P_seg001,6,MS171,171.0,0,0
+292,LM,La Mojarra Stela 1,P,LM_P,7,LM_P_seg001,7,MS96,96.0,0,0
+293,LM,La Mojarra Stela 1,P,LM_P,8,LM_P_seg001,8,MS69,69.0,0,0
+294,LM,La Mojarra Stela 1,P,LM_P,9,LM_P_seg001,9,MS129,129.0,0,0
+295,LM,La Mojarra Stela 1,P,LM_P,10,LM_P_seg001,10,MS75,75.0,0,0
+296,LM,La Mojarra Stela 1,P,LM_P,11,LM_P_seg001,11,MS100,100.0,0,0
+297,LM,La Mojarra Stela 1,P,LM_P,12,LM_P_seg001,12,MS96,96.0,0,0
+298,LM,La Mojarra Stela 1,P,LM_P,13,LM_P_seg001,13,MS94,94.0,0,0
+299,LM,La Mojarra Stela 1,P,LM_P,14,LM_P_seg001,14,MS10,10.0,0,0
+300,LM,La Mojarra Stela 1,P,LM_P,15,LM_P_seg001,15,MS136,136.0,0,0
+301,LM,La Mojarra Stela 1,P,LM_P,16,LM_P_seg001,16,MS45,45.0,0,0
+302,LM,La Mojarra Stela 1,P,LM_P,17,LM_P_seg001,17,MS23,23.0,0,0
+303,LM,La Mojarra Stela 1,P,LM_P,18,LM_P_seg001,18,MS124,124.0,0,0
+304,LM,La Mojarra Stela 1,P,LM_P,19,LM_P_seg001,19,MS20,20.0,1,0
+305,LM,La Mojarra Stela 1,P,LM_P,20,LM_P_seg002,1,MS171,171.0,0,0
+306,LM,La Mojarra Stela 1,P,LM_P,21,LM_P_seg002,2,MS101,101.0,0,0
+307,LM,La Mojarra Stela 1,P,LM_P,22,LM_P_seg002,3,MS38,38.0,0,0
+308,LM,La Mojarra Stela 1,P,LM_P,23,LM_P_seg002,4,ERODED_0.23,,0,1
+309,LM,La Mojarra Stela 1,P,LM_P,24,LM_P_seg002,5,ERODED_0.24,,0,1
+310,LM,La Mojarra Stela 1,P,LM_P,25,LM_P_seg002,6,MS132,132.0,0,0
+311,LM,La Mojarra Stela 1,P,LM_P,26,LM_P_seg002,7,MS107,107.0,0,0
+312,LM,La Mojarra Stela 1,P,LM_P,27,LM_P_seg002,8,MS120,120.0,0,0
+313,LM,La Mojarra Stela 1,P,LM_P,28,LM_P_seg002,9,MS46,46.0,0,0
+314,LM,La Mojarra Stela 1,P,LM_P,29,LM_P_seg002,10,MS124,124.0,0,0
+315,LM,La Mojarra Stela 1,P,LM_P,30,LM_P_seg002,11,MS76,76.0,0,0
+316,LM,La Mojarra Stela 1,P,LM_P,31,LM_P_seg002,12,MS78,78.0,0,0
+317,LM,La Mojarra Stela 1,P,LM_P,32,LM_P_seg002,13,MS20,20.0,1,0
+318,LM,La Mojarra Stela 1,P,LM_P,33,LM_P_seg003,1,MS24,24.0,0,0
+319,LM,La Mojarra Stela 1,P,LM_P,34,LM_P_seg003,2,MS28,28.0,0,0
+320,LM,La Mojarra Stela 1,P,LM_P,35,LM_P_seg003,3,MS97,97.0,0,0
+321,LM,La Mojarra Stela 1,P,LM_P,36,LM_P_seg003,4,MS29,29.0,0,0
+322,LM,La Mojarra Stela 1,PO,LM_PO,1,LM_PO_seg001,1,MS38,38.0,0,0
+323,LM,La Mojarra Stela 1,PO,LM_PO,2,LM_PO_seg001,2,MS75,75.0,0,0
+324,LM,La Mojarra Stela 1,PO,LM_PO,3,LM_PO_seg001,3,MS93,93.0,0,0
+325,LM,La Mojarra Stela 1,PO,LM_PO,4,LM_PO_seg001,4,MS143,143.0,0,0
+326,LM,La Mojarra Stela 1,PO,LM_PO,5,LM_PO_seg001,5,MS22,22.0,0,0
+327,LM,La Mojarra Stela 1,PO,LM_PO,6,LM_PO_seg001,6,MS149,149.0,0,0
+328,LM,La Mojarra Stela 1,PO,LM_PO,7,LM_PO_seg001,7,MS20,20.0,1,0
+329,LM,La Mojarra Stela 1,Q,LM_Q,1,LM_Q_seg001,1,MS182,182.0,0,0
+330,LM,La Mojarra Stela 1,Q,LM_Q,2,LM_Q_seg001,2,MS103,103.0,0,0
+331,LM,La Mojarra Stela 1,Q,LM_Q,3,LM_Q_seg001,3,MS63,63.0,0,0
+332,LM,La Mojarra Stela 1,Q,LM_Q,4,LM_Q_seg001,4,MS149,149.0,0,0
+333,LM,La Mojarra Stela 1,Q,LM_Q,5,LM_Q_seg001,5,MS83,83.0,0,0
+334,LM,La Mojarra Stela 1,Q,LM_Q,6,LM_Q_seg001,6,MS56,56.0,0,0
+335,LM,La Mojarra Stela 1,Q,LM_Q,7,LM_Q_seg001,7,MS149,149.0,0,0
+336,LM,La Mojarra Stela 1,Q,LM_Q,8,LM_Q_seg001,8,MS42,42.0,0,0
+337,LM,La Mojarra Stela 1,Q,LM_Q,9,LM_Q_seg001,9,MS142,142.0,0,0
+338,LM,La Mojarra Stela 1,Q,LM_Q,10,LM_Q_seg001,10,MS165,165.0,0,0
+339,LM,La Mojarra Stela 1,Q,LM_Q,11,LM_Q_seg001,11,MS63,63.0,0,0
+340,LM,La Mojarra Stela 1,Q,LM_Q,12,LM_Q_seg001,12,MS107,107.0,0,0
+341,LM,La Mojarra Stela 1,Q,LM_Q,13,LM_Q_seg001,13,MS63,63.0,0,0
+342,LM,La Mojarra Stela 1,R,LM_R,1,LM_R_seg001,1,MS28,28.0,0,0
+343,LM,La Mojarra Stela 1,R,LM_R,2,LM_R_seg001,2,MS43,43.0,0,0
+344,LM,La Mojarra Stela 1,R,LM_R,3,LM_R_seg001,3,MS178,178.0,0,0
+345,LM,La Mojarra Stela 1,R,LM_R,4,LM_R_seg001,4,MS9,9.0,0,0
+346,LM,La Mojarra Stela 1,R,LM_R,5,LM_R_seg001,5,MS63,63.0,0,0
+347,LM,La Mojarra Stela 1,R,LM_R,6,LM_R_seg001,6,MS152,152.0,0,0
+348,LM,La Mojarra Stela 1,R,LM_R,7,LM_R_seg001,7,MS124,124.0,0,0
+349,LM,La Mojarra Stela 1,R,LM_R,8,LM_R_seg001,8,MS38,38.0,0,0
+350,LM,La Mojarra Stela 1,R,LM_R,9,LM_R_seg001,9,MS33,33.0,0,0
+351,LM,La Mojarra Stela 1,R,LM_R,10,LM_R_seg001,10,MS2,2.0,0,0
+352,LM,La Mojarra Stela 1,R,LM_R,11,LM_R_seg001,11,MS20,20.0,1,0
+353,LM,La Mojarra Stela 1,R,LM_R,12,LM_R_seg002,1,MS60,60.0,0,0
+354,LM,La Mojarra Stela 1,R,LM_R,13,LM_R_seg002,2,MS75,75.0,0,0
+355,LM,La Mojarra Stela 1,R,LM_R,14,LM_R_seg002,3,MS36,36.0,0,0
+356,LM,La Mojarra Stela 1,R,LM_R,15,LM_R_seg002,4,MS138,138.0,0,0
+357,LM,La Mojarra Stela 1,R,LM_R,16,LM_R_seg002,5,MS1,1.0,0,0
+358,LM,La Mojarra Stela 1,R,LM_R,17,LM_R_seg002,6,MS167,167.0,0,0
+359,LM,La Mojarra Stela 1,R,LM_R,18,LM_R_seg002,7,MS38,38.0,0,0
+360,LM,La Mojarra Stela 1,R,LM_R,19,LM_R_seg002,8,MS113,113.0,0,0
+361,LM,La Mojarra Stela 1,R,LM_R,20,LM_R_seg002,9,MS138,138.0,0,0
+362,LM,La Mojarra Stela 1,R,LM_R,21,LM_R_seg002,10,MS53,53.0,0,0
+363,LM,La Mojarra Stela 1,R,LM_R,22,LM_R_seg002,11,MS68,68.0,0,0
+364,LM,La Mojarra Stela 1,R,LM_R,23,LM_R_seg002,12,MS101,101.0,0,0
+365,LM,La Mojarra Stela 1,R,LM_R,24,LM_R_seg002,13,MS38,38.0,0,0
+366,LM,La Mojarra Stela 1,R,LM_R,25,LM_R_seg002,14,MS149,149.0,0,0
+367,LM,La Mojarra Stela 1,R,LM_R,26,LM_R_seg002,15,MS50,50.0,0,0
+368,LM,La Mojarra Stela 1,R,LM_R,27,LM_R_seg002,16,ERODED_0.25,,0,1
+369,LM,La Mojarra Stela 1,R,LM_R,28,LM_R_seg002,17,MS38,38.0,0,0
+370,LM,La Mojarra Stela 1,R,LM_R,29,LM_R_seg002,18,MS170,170.0,0,0
+371,LM,La Mojarra Stela 1,R,LM_R,30,LM_R_seg002,19,MS38,38.0,0,0
+372,LM,La Mojarra Stela 1,R,LM_R,31,LM_R_seg002,20,MS2,2.0,0,0
+373,LM,La Mojarra Stela 1,R,LM_R,32,LM_R_seg002,21,MS38,38.0,0,0
+374,LM,La Mojarra Stela 1,R,LM_R,33,LM_R_seg002,22,MS101,101.0,0,0
+375,LM,La Mojarra Stela 1,R,LM_R,34,LM_R_seg002,23,MS25,25.0,0,0
+376,LM,La Mojarra Stela 1,RA,LM_RA,1,LM_RA_seg001,1,MS22,22.0,0,0
+377,LM,La Mojarra Stela 1,RA,LM_RA,2,LM_RA_seg001,2,MS71,71.0,0,0
+378,LM,La Mojarra Stela 1,RO,LM_RO,1,LM_RO_seg001,1,MS152,152.0,0,0
+379,LM,La Mojarra Stela 1,RO,LM_RO,2,LM_RO_seg001,2,MS20,20.0,1,0
+380,LM,La Mojarra Stela 1,RO,LM_RO,3,LM_RO_seg002,1,MS20,20.0,1,0
+381,LM,La Mojarra Stela 1,RO,LM_RO,4,LM_RO_seg003,1,MS109,109.0,0,0
+382,LM,La Mojarra Stela 1,RO,LM_RO,5,LM_RO_seg003,2,MS37,37.0,0,0
+383,LM,La Mojarra Stela 1,RO,LM_RO,6,LM_RO_seg003,3,MS31,31.0,0,0
+384,LM,La Mojarra Stela 1,RO,LM_RO,7,LM_RO_seg003,4,MS30,30.0,0,0
+385,LM,La Mojarra Stela 1,RO,LM_RO,8,LM_RO_seg003,5,MS31,31.0,0,0
+386,LM,La Mojarra Stela 1,RO,LM_RO,9,LM_RO_seg003,6,MS20,20.0,1,0
+387,LM,La Mojarra Stela 1,RO,LM_RO,10,LM_RO_seg004,1,MS9,9.0,0,0
+388,LM,La Mojarra Stela 1,S,LM_S,1,LM_S_seg001,1,MS161,161.0,0,0
+389,LM,La Mojarra Stela 1,S,LM_S,2,LM_S_seg001,2,MS45,45.0,0,0
+390,LM,La Mojarra Stela 1,S,LM_S,3,LM_S_seg001,3,MS165,165.0,0,0
+391,LM,La Mojarra Stela 1,S,LM_S,4,LM_S_seg001,4,MS38,38.0,0,0
+392,LM,La Mojarra Stela 1,S,LM_S,5,LM_S_seg001,5,MS22,22.0,0,0
+393,LM,La Mojarra Stela 1,S,LM_S,6,LM_S_seg001,6,MS97,97.0,0,0
+394,LM,La Mojarra Stela 1,S,LM_S,7,LM_S_seg001,7,MS29,29.0,0,0
+395,LM,La Mojarra Stela 1,S,LM_S,8,LM_S_seg001,8,MS164,164.0,0,0
+396,LM,La Mojarra Stela 1,S,LM_S,9,LM_S_seg001,9,MS20,20.0,1,0
+397,LM,La Mojarra Stela 1,S,LM_S,10,LM_S_seg002,1,MS101,101.0,0,0
+398,LM,La Mojarra Stela 1,S,LM_S,11,LM_S_seg002,2,MS22,22.0,0,0
+399,LM,La Mojarra Stela 1,S,LM_S,12,LM_S_seg002,3,MS20,20.0,1,0
+400,LM,La Mojarra Stela 1,S,LM_S,13,LM_S_seg003,1,MS38,38.0,0,0
+401,LM,La Mojarra Stela 1,S,LM_S,14,LM_S_seg003,2,MS22,22.0,0,0
+402,LM,La Mojarra Stela 1,S,LM_S,15,LM_S_seg003,3,MS65,65.0,0,0
+403,LM,La Mojarra Stela 1,S,LM_S,16,LM_S_seg003,4,MS101,101.0,0,0
+404,LM,La Mojarra Stela 1,S,LM_S,17,LM_S_seg003,5,MS64,64.0,0,0
+405,LM,La Mojarra Stela 1,S,LM_S,18,LM_S_seg003,6,MS159,159.0,0,0
+406,LM,La Mojarra Stela 1,S,LM_S,19,LM_S_seg003,7,MS25,25.0,0,0
+407,LM,La Mojarra Stela 1,S,LM_S,20,LM_S_seg003,8,MS44,44.0,0,0
+408,LM,La Mojarra Stela 1,S,LM_S,21,LM_S_seg003,9,MS22,22.0,0,0
+409,LM,La Mojarra Stela 1,S,LM_S,22,LM_S_seg003,10,MS20,20.0,1,0
+410,LM,La Mojarra Stela 1,S,LM_S,23,LM_S_seg004,1,MS24,24.0,0,0
+411,LM,La Mojarra Stela 1,S,LM_S,24,LM_S_seg004,2,MS22,22.0,0,0
+412,LM,La Mojarra Stela 1,S,LM_S,25,LM_S_seg004,3,MS56,56.0,0,0
+413,LM,La Mojarra Stela 1,S,LM_S,26,LM_S_seg004,4,MS149,149.0,0,0
+414,LM,La Mojarra Stela 1,S,LM_S,27,LM_S_seg004,5,MS42,42.0,0,0
+415,LM,La Mojarra Stela 1,S,LM_S,28,LM_S_seg004,6,MS138,138.0,0,0
+416,LM,La Mojarra Stela 1,S,LM_S,29,LM_S_seg004,7,MS101,101.0,0,0
+417,LM,La Mojarra Stela 1,S,LM_S,30,LM_S_seg004,8,MS24,24.0,0,0
+418,LM,La Mojarra Stela 1,S,LM_S,31,LM_S_seg004,9,MS44,44.0,0,0
+419,LM,La Mojarra Stela 1,S,LM_S,32,LM_S_seg004,10,MS50,50.0,0,0
+420,LM,La Mojarra Stela 1,S,LM_S,33,LM_S_seg004,11,MS174,174.0,0,0
+421,LM,La Mojarra Stela 1,SA,LM_SA,1,LM_SA_seg001,1,MS129,129.0,0,0
+422,LM,La Mojarra Stela 1,SA,LM_SA,2,LM_SA_seg001,2,MS75,75.0,0,0
+423,LM,La Mojarra Stela 1,SA,LM_SA,3,LM_SA_seg001,3,MS92,92.0,0,0
+424,LM,La Mojarra Stela 1,SO,LM_SO,1,LM_SO_seg001,1,MS6,6.0,0,0
+425,LM,La Mojarra Stela 1,SO,LM_SO,2,LM_SO_seg001,2,MS22,22.0,0,0
+426,LM,La Mojarra Stela 1,SO,LM_SO,3,LM_SO_seg001,3,MS122,122.0,0,0
+427,LM,La Mojarra Stela 1,SO,LM_SO,4,LM_SO_seg001,4,MS150,150.0,0,0
+428,LM,La Mojarra Stela 1,SO,LM_SO,5,LM_SO_seg001,5,MS170,170.0,0,0
+429,LM,La Mojarra Stela 1,SO,LM_SO,6,LM_SO_seg001,6,MS143,143.0,0,0
+430,LM,La Mojarra Stela 1,SO,LM_SO,7,LM_SO_seg001,7,MS102,102.0,0,0
+431,LM,La Mojarra Stela 1,SO,LM_SO,8,LM_SO_seg001,8,MS48,48.0,0,0
+432,LM,La Mojarra Stela 1,SS,LM_SS,1,LM_SS_seg001,1,MS22,22.0,0,0
+433,LM,La Mojarra Stela 1,SS,LM_SS,2,LM_SS_seg001,2,ERODED_0.26,,0,1
+434,LM,La Mojarra Stela 1,T,LM_T,1,LM_T_seg001,1,MS104,104.0,0,0
+435,LM,La Mojarra Stela 1,T,LM_T,2,LM_T_seg001,2,MS65,65.0,0,0
+436,LM,La Mojarra Stela 1,T,LM_T,3,LM_T_seg001,3,MS103,103.0,0,0
+437,LM,La Mojarra Stela 1,T,LM_T,4,LM_T_seg001,4,MS101,101.0,0,0
+438,LM,La Mojarra Stela 1,T,LM_T,5,LM_T_seg001,5,MS38,38.0,0,0
+439,LM,La Mojarra Stela 1,T,LM_T,6,LM_T_seg001,6,MS169,169.0,0,0
+440,LM,La Mojarra Stela 1,T,LM_T,7,LM_T_seg001,7,MS81,81.0,0,0
+441,LM,La Mojarra Stela 1,T,LM_T,8,LM_T_seg001,8,MS80,80.0,0,0
+442,LM,La Mojarra Stela 1,T,LM_T,9,LM_T_seg001,9,MS20,20.0,1,0
+443,LM,La Mojarra Stela 1,T,LM_T,10,LM_T_seg002,1,MS3,3.0,0,0
+444,LM,La Mojarra Stela 1,T,LM_T,11,LM_T_seg002,2,MS89,89.0,0,0
+445,LM,La Mojarra Stela 1,T,LM_T,12,LM_T_seg002,3,MS178,178.0,0,0
+446,LM,La Mojarra Stela 1,T,LM_T,13,LM_T_seg002,4,MS23,23.0,0,0
+447,LM,La Mojarra Stela 1,T,LM_T,14,LM_T_seg002,5,MS28,28.0,0,0
+448,LM,La Mojarra Stela 1,T,LM_T,15,LM_T_seg002,6,MS124,124.0,0,0
+449,LM,La Mojarra Stela 1,T,LM_T,16,LM_T_seg002,7,MS20,20.0,1,0
+450,LM,La Mojarra Stela 1,T,LM_T,17,LM_T_seg003,1,MS56,56.0,0,0
+451,LM,La Mojarra Stela 1,T,LM_T,18,LM_T_seg003,2,MS149,149.0,0,0
+452,LM,La Mojarra Stela 1,T,LM_T,19,LM_T_seg003,3,MS42,42.0,0,0
+453,LM,La Mojarra Stela 1,T,LM_T,20,LM_T_seg003,4,MS44,44.0,0,0
+454,LM,La Mojarra Stela 1,T,LM_T,21,LM_T_seg003,5,MS54,54.0,0,0
+455,LM,La Mojarra Stela 1,T,LM_T,22,LM_T_seg003,6,MS20,20.0,1,0
+456,LM,La Mojarra Stela 1,T,LM_T,23,LM_T_seg004,1,MS68,68.0,0,0
+457,LM,La Mojarra Stela 1,T,LM_T,24,LM_T_seg004,2,MS101,101.0,0,0
+458,LM,La Mojarra Stela 1,T,LM_T,25,LM_T_seg004,3,MS176,176.0,0,0
+459,LM,La Mojarra Stela 1,T,LM_T,26,LM_T_seg004,4,MS20,20.0,1,0
+460,LM,La Mojarra Stela 1,T,LM_T,27,LM_T_seg005,1,MS38,38.0,0,0
+461,LM,La Mojarra Stela 1,T,LM_T,28,LM_T_seg005,2,MS37,37.0,0,0
+462,LM,La Mojarra Stela 1,T,LM_T,29,LM_T_seg005,3,MS44,44.0,0,0
+463,LM,La Mojarra Stela 1,T,LM_T,30,LM_T_seg005,4,MS68,68.0,0,0
+464,LM,La Mojarra Stela 1,T,LM_T,31,LM_T_seg005,5,MS101,101.0,0,0
+465,LM,La Mojarra Stela 1,T,LM_T,32,LM_T_seg005,6,MS38,38.0,0,0
+466,LM,La Mojarra Stela 1,T,LM_T,33,LM_T_seg005,7,MS179,179.0,0,0
+467,LM,La Mojarra Stela 1,T,LM_T,34,LM_T_seg005,8,MS70,70.0,0,0
+468,LM,La Mojarra Stela 1,T,LM_T,35,LM_T_seg005,9,MS102,102.0,0,0
+469,LM,La Mojarra Stela 1,T,LM_T,36,LM_T_seg005,10,MS43,43.0,0,0
+470,LM,La Mojarra Stela 1,T,LM_T,37,LM_T_seg005,11,MS48,48.0,0,0
+471,LM,La Mojarra Stela 1,T,LM_T,38,LM_T_seg005,12,MS165,165.0,0,0
+472,LM,La Mojarra Stela 1,T,LM_T,39,LM_T_seg005,13,MS20,20.0,1,0
+473,LM,La Mojarra Stela 1,TO,LM_TO,1,LM_TO_seg001,1,MS36,36.0,0,0
+474,LM,La Mojarra Stela 1,TO,LM_TO,2,LM_TO_seg001,2,MS138,138.0,0,0
+475,LM,La Mojarra Stela 1,TO,LM_TO,3,LM_TO_seg001,3,MS2,2.0,0,0
+476,LM,La Mojarra Stela 1,U,LM_U,1,LM_U_seg001,1,ERODED_0.27,,0,1
+477,LM,La Mojarra Stela 1,U,LM_U,2,LM_U_seg001,2,MS38,38.0,0,0
+478,LM,La Mojarra Stela 1,U,LM_U,3,LM_U_seg001,3,MS54,54.0,0,0
+479,LM,La Mojarra Stela 1,U,LM_U,4,LM_U_seg001,4,MS77,77.0,0,0
+480,LM,La Mojarra Stela 1,U,LM_U,5,LM_U_seg001,5,MS150,150.0,0,0
+481,LM,La Mojarra Stela 1,U,LM_U,6,LM_U_seg001,6,MS170,170.0,0,0
+482,LM,La Mojarra Stela 1,U,LM_U,7,LM_U_seg001,7,MS143,143.0,0,0
+483,LM,La Mojarra Stela 1,U,LM_U,8,LM_U_seg001,8,MS25,25.0,0,0
+484,LM,La Mojarra Stela 1,U,LM_U,9,LM_U_seg001,9,MS149,149.0,0,0
+485,LM,La Mojarra Stela 1,U,LM_U,10,LM_U_seg001,10,MS42,42.0,0,0
+486,LM,La Mojarra Stela 1,U,LM_U,11,LM_U_seg001,11,MS68,68.0,0,0
+487,LM,La Mojarra Stela 1,U,LM_U,12,LM_U_seg001,12,MS63,63.0,0,0
+488,LM,La Mojarra Stela 1,U,LM_U,13,LM_U_seg001,13,MS176,176.0,0,0
+489,LM,La Mojarra Stela 1,V,LM_V,1,LM_V_seg001,1,MS20,20.0,1,0
+490,LM,La Mojarra Stela 1,V,LM_V,2,LM_V_seg002,1,MS38,38.0,0,0
+491,LM,La Mojarra Stela 1,V,LM_V,3,LM_V_seg002,2,MS149,149.0,0,0
+492,LM,La Mojarra Stela 1,V,LM_V,4,LM_V_seg002,3,MS42,42.0,0,0
+493,LM,La Mojarra Stela 1,V,LM_V,5,LM_V_seg002,4,MS153,153.0,0,0
+494,LM,La Mojarra Stela 1,V,LM_V,6,LM_V_seg002,5,MS140,140.0,0,0
+495,LM,La Mojarra Stela 1,V,LM_V,7,LM_V_seg002,6,MS68,68.0,0,0
+496,LM,La Mojarra Stela 1,V,LM_V,8,LM_V_seg002,7,ERODED_0.29,,0,1
+497,LM,La Mojarra Stela 1,V,LM_V,9,LM_V_seg002,8,MS61,61.0,0,0
+498,LM,La Mojarra Stela 1,V,LM_V,10,LM_V_seg002,9,MS72,72.0,0,0
+499,LM,La Mojarra Stela 1,V,LM_V,11,LM_V_seg002,10,MS133,133.0,0,0
+500,LM,La Mojarra Stela 1,V,LM_V,12,LM_V_seg002,11,MS123,123.0,0,0
+501,LM,La Mojarra Stela 1,V,LM_V,13,LM_V_seg002,12,MS38,38.0,0,0
+502,LM,La Mojarra Stela 1,V,LM_V,14,LM_V_seg002,13,MS114,114.0,0,0
+503,LM,La Mojarra Stela 1,V,LM_V,15,LM_V_seg002,14,MS164,164.0,0,0
+504,LM,La Mojarra Stela 1,V,LM_V,16,LM_V_seg002,15,MS63,63.0,0,0
+505,LM,La Mojarra Stela 1,V,LM_V,17,LM_V_seg002,16,MS176,176.0,0,0
+506,LM,La Mojarra Stela 1,V,LM_V,18,LM_V_seg002,17,MS123,123.0,0,0
+507,LM,La Mojarra Stela 1,VI,LM_VI,1,LM_VI_seg001,1,MS20,20.0,1,0
+508,LM,La Mojarra Stela 1,VO,LM_VO,1,LM_VO_seg001,1,MS103,103.0,0,0
+509,LM,La Mojarra Stela 1,VO,LM_VO,2,LM_VO_seg001,2,MS101,101.0,0,0
+510,LM,La Mojarra Stela 1,VO,LM_VO,3,LM_VO_seg001,3,MS12,12.0,0,0
+511,LM,La Mojarra Stela 1,VO,LM_VO,4,LM_VO_seg001,4,MS72,72.0,0,0
+512,LM,La Mojarra Stela 1,VO,LM_VO,5,LM_VO_seg001,5,MS103,103.0,0,0
+513,LM,La Mojarra Stela 1,VO,LM_VO,6,LM_VO_seg001,6,MS165,165.0,0,0
+514,LM,La Mojarra Stela 1,VO,LM_VO,7,LM_VO_seg001,7,MS93,93.0,0,0
+515,LM,La Mojarra Stela 1,VO,LM_VO,8,LM_VO_seg001,8,MS100,100.0,0,0
+516,LM,La Mojarra Stela 1,VO,LM_VO,9,LM_VO_seg001,9,MS105,105.0,0,0
+517,LM,La Mojarra Stela 1,VO,LM_VO,10,LM_VO_seg001,10,MS143,143.0,0,0
+518,TS,Tuxtla Statuette,,TS_misc,1,TS_misc_seg001,1,MS126,126.0,0,0
+519,TS,Tuxtla Statuette,,TS_misc,2,TS_misc_seg001,2,MS151,151.0,0,0
+520,TS,Tuxtla Statuette,,TS_misc,3,TS_misc_seg001,3,MS20,20.0,1,0
+521,TS,Tuxtla Statuette,A,TS_A,1,TS_A_seg001,1,MS2,2.0,0,0
+522,TS,Tuxtla Statuette,AO,TS_AO,1,TS_AO_seg001,1,MS106,106.0,0,0
+523,TS,Tuxtla Statuette,AO,TS_AO,2,TS_AO_seg001,2,MS8,8.0,0,0
+524,TS,Tuxtla Statuette,AO,TS_AO,3,TS_AO_seg001,3,MS6,6.0,0,0
+525,TS,Tuxtla Statuette,AO,TS_AO,4,TS_AO_seg001,4,MS8,8.0,0,0
+526,TS,Tuxtla Statuette,AO,TS_AO,5,TS_AO_seg001,5,MS131,131.0,0,0
+527,TS,Tuxtla Statuette,B,TS_B,1,TS_B_seg001,1,MS145,145.0,0,0
+528,TS,Tuxtla Statuette,BO,TS_BO,1,TS_BO_seg001,1,MS39,39.0,0,0
+529,TS,Tuxtla Statuette,BO,TS_BO,2,TS_BO_seg001,2,MS97,97.0,0,0
+530,TS,Tuxtla Statuette,BO,TS_BO,3,TS_BO_seg001,3,MS39,39.0,0,0
+531,TS,Tuxtla Statuette,BO,TS_BO,4,TS_BO_seg001,4,MS149,149.0,0,0
+532,TS,Tuxtla Statuette,C,TS_C,1,TS_C_seg001,1,MS20,20.0,1,0
+533,TS,Tuxtla Statuette,CO,TS_CO,1,TS_CO_seg001,1,MS183,183.0,0,0
+534,TS,Tuxtla Statuette,CO,TS_CO,2,TS_CO_seg001,2,MS20,20.0,1,0
+535,TS,Tuxtla Statuette,CO,TS_CO,3,TS_CO_seg002,1,MS4,4.0,0,0
+536,TS,Tuxtla Statuette,CO,TS_CO,4,TS_CO_seg002,2,MS45,45.0,0,0
+537,TS,Tuxtla Statuette,CO,TS_CO,5,TS_CO_seg002,3,MS108,108.0,0,0
+538,TS,Tuxtla Statuette,D,TS_D,1,TS_D_seg001,1,MS158,158.0,0,0
+539,TS,Tuxtla Statuette,D,TS_D,2,TS_D_seg001,2,MS170,170.0,0,0
+540,TS,Tuxtla Statuette,D,TS_D,3,TS_D_seg001,3,MS75,75.0,0,0
+541,TS,Tuxtla Statuette,D,TS_D,4,TS_D_seg001,4,MS20,20.0,1,0
+542,TS,Tuxtla Statuette,DO,TS_DO,1,TS_DO_seg001,1,MS141,141.0,0,0
+543,TS,Tuxtla Statuette,EO,TS_EO,1,TS_EO_seg001,1,MS180,180.0,0,0
+544,TS,Tuxtla Statuette,EO,TS_EO,2,TS_EO_seg001,2,MS20,20.0,1,0
+545,TS,Tuxtla Statuette,F,TS_F,1,TS_F_seg001,1,MS149,149.0,0,0
+546,TS,Tuxtla Statuette,F,TS_F,2,TS_F_seg001,2,MS27,27.0,0,0
+547,TS,Tuxtla Statuette,F,TS_F,3,TS_F_seg001,3,MS129,129.0,0,0
+548,TS,Tuxtla Statuette,F,TS_F,4,TS_F_seg001,4,ERODED_0.00,,0,1
+549,TS,Tuxtla Statuette,FO,TS_FO,1,TS_FO_seg001,1,MS165,165.0,0,0
+550,TS,Tuxtla Statuette,FO,TS_FO,2,TS_FO_seg001,2,MS118,118.0,0,0
+551,TS,Tuxtla Statuette,FO,TS_FO,3,TS_FO_seg001,3,MS113,113.0,0,0
+552,TS,Tuxtla Statuette,FO,TS_FO,4,TS_FO_seg001,4,MS93,93.0,0,0
+553,TS,Tuxtla Statuette,FO,TS_FO,5,TS_FO_seg001,5,MS100,100.0,0,0
+554,TS,Tuxtla Statuette,FO,TS_FO,6,TS_FO_seg001,6,MS39,39.0,0,0
+555,TS,Tuxtla Statuette,G,TS_G,1,TS_G_seg001,1,MS100,100.0,0,0
+556,TS,Tuxtla Statuette,G,TS_G,2,TS_G_seg001,2,MS20,20.0,1,0
+557,TS,Tuxtla Statuette,G,TS_G,3,TS_G_seg002,1,MS61,61.0,0,0
+558,TS,Tuxtla Statuette,G,TS_G,4,TS_G_seg002,2,MS84,84.0,0,0
+559,TS,Tuxtla Statuette,G,TS_G,5,TS_G_seg002,3,MS143,143.0,0,0
+560,TS,Tuxtla Statuette,G,TS_G,6,TS_G_seg002,4,ERODED_0.32,,0,1
+561,TS,Tuxtla Statuette,GO,TS_GO,1,TS_GO_seg001,1,MS68,68.0,0,0
+562,TS,Tuxtla Statuette,GO,TS_GO,2,TS_GO_seg001,2,MS100,100.0,0,0
+563,TS,Tuxtla Statuette,GO,TS_GO,3,TS_GO_seg001,3,MS20,20.0,1,0
+564,TS,Tuxtla Statuette,GO,TS_GO,4,TS_GO_seg002,1,MS171,171.0,0,0
+565,TS,Tuxtla Statuette,HO,TS_HO,1,TS_HO_seg001,1,MS1,1.0,0,0
+566,TS,Tuxtla Statuette,HO,TS_HO,2,TS_HO_seg001,2,MS20,20.0,1,0
+567,TS,Tuxtla Statuette,I,TS_I,1,TS_I_seg001,1,ERODED_0.33,,0,1
+568,TS,Tuxtla Statuette,I,TS_I,2,TS_I_seg001,2,MS143,143.0,0,0
+569,TS,Tuxtla Statuette,IO,TS_IO,1,TS_IO_seg001,1,MS148,148.0,0,0
+570,TS,Tuxtla Statuette,IO,TS_IO,2,TS_IO_seg001,2,MS20,20.0,1,0
+571,TS,Tuxtla Statuette,P,TS_P,1,TS_P_seg001,1,MS22,22.0,0,0
+572,TS,Tuxtla Statuette,P,TS_P,2,TS_P_seg001,2,MS39,39.0,0,0
+573,TS,Tuxtla Statuette,P,TS_P,3,TS_P_seg001,3,MS45,45.0,0,0
+574,TS,Tuxtla Statuette,P,TS_P,4,TS_P_seg001,4,MS65,65.0,0,0
+575,TS,Tuxtla Statuette,P,TS_P,5,TS_P_seg001,5,MS8,8.0,0,0
+576,TS,Tuxtla Statuette,P,TS_P,6,TS_P_seg001,6,ERODED_0.31,,0,1
