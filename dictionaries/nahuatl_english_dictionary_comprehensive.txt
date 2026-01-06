@@ -1,0 +1,2643 @@
+================================================================================
+CLASSICAL NAHUATL - ENGLISH DICTIONARY
+Comprehensive Edition - Wimmer Dictionary (malinal.net)
+================================================================================
+
+ABOUT THIS DICTIONARY
+--------------------------------------------------------------------------------
+Source: Dictionnaire de la langue nahuatl classique by Alexis Wimmer
+Based on:
+- Rémi Simon's 1885 French translation of Molina's 1571 Vocabulario
+- The Florentine Codex (Codex de Florence) by Fray Bernardino de Sahagún
+
+Nahuatl long vowels are marked with macrons: ā, ē, ī, ō, ū
+The dictionary includes botanical, zoological, historical, and cultural terms.
+
+================================================================================
+
+========================================
+  A
+========================================
+
+Ā
+  interjection: Oh! (exclamation expressing pain or sadness)
+  Original: Particula exclamativa que suele acompañar a expresiones de dolor o tristeza
+
+AA
+  interjection expressing complaint or pain
+  Spanish: (Olmos)
+
+AACA
+  reduplication of ACAH (someone), variant of AQUI
+
+AACAN
+  See AHAHCANA
+
+AACATLAH
+  reduplication of ĀCATLAH, locative - place of reeds
+
+AACCAYOTL
+  See AHACCAYOTL
+
+AACHCUI
+  verb transitive: to slander someone, to report falsely, to gossip
+  Spanish: chismear (Molina)
+
+AACHTI
+  verb transitive: to be at someone's service, to be their page or servant
+  Spanish: ser criado o paje de otro (Molina)
+
+AACHTLI
+  See AHACHTLI
+
+AACQUI
+  adjective: irritated, furious, one who has lost reason, beside oneself
+  Spanish: atronado o furioso (Molina)
+  Form: perfect of AAQUI
+
+AACTIUH
+  verb intransitive: 1. to trot, to go running, to walk fast
+  2. to be inserted
+  Spanish: ir trotando (Molina)
+
+AACTIYA
+  verb intransitive: to trot, to walk rapidly
+
+AACTIYALIZTLI
+  noun: trot of a pedestrian, rapid walk, running pace
+  Spanish: trote del que camina (Molina)
+
+AAHCI
+  verb inanimate: to ripen (speaking of fruits)
+  verb intransitive: 1. to reach, arrive at one's goal, to touch, to fathom something
+  2. to frequent someone of distinction, to live familiarly with them
+  Spanish: alcanzar a saber algo enteramente (Molina)
+
+AAHCINI
+  noun: 1. one who investigates a subject or comes to know something entirely
+  2. one who frequents persons of quality
+
+AAHHUICTLĀZA
+  verb transitive: to push back, reject someone
+  Form: reduplication of AHHUĪCTLĀZA
+
+AAHUATON
+  See AHAHUATŌN
+
+AAHUITZOCALAQUI
+  verb intransitive: to swim underwater
+  Spanish: nadar debajo del agua (Molina)
+
+AAHUIANI
+  See AHAHUIYANI
+
+AALACATOC
+  See AHALACATOC
+
+AALTIA
+  See AHALTIA
+
+AAMOXTLI
+  See AHAMOXTLI
+
+AĀPILŌLLI
+  noun: jar, jug
+  English: jar
+
+AAQUI
+  verb intransitive: to penetrate (somewhere)
+  metaphor: to commit adultery
+  verb inanimate: to be inserted, to be soaked
+  English: to be soaked
+
+AAQUILIA
+  verb reflexive bitransitive: to put on (sandals or garment)
+  Form: reduplication of AQUILIA
+
+AATEPOCATIC
+  botanical: name of a medicinal plant
+  Perhaps: Anona aquamosa
+
+AĀTĒQUIA
+  verb transitive: to pour much water on something
+  Form: reduplication of ĀTĒQUIA
+
+AĀTL
+  noun: the juice
+  possessed form: in īāāyo - its juice
+
+AAXOTIC
+  botanical: plant identity unknown (see Sah HG 7,228)
+
+AĀYILIA
+  verb reflexive: to do, to make
+  Form: reduplication of ĀYILIA
+
+AAZTITLAN
+  locative: See AHAZTITLAN
+
+AAZTLI
+  See AHAZTLI
+
+ĀC
+  interrogative: Who?
+  English: one, who; someone
+  Example: ahmo āc īchān calaquiya - no one entered their home
+
+ACA / ACAH
+  indefinite pronoun: someone, somebody
+  English: someone, some, anyone, one, whoever, another, he who
+  Plural: ACAHMEH - some people, certain ones
+
+ACAC
+  nobody, no one (perhaps error for AYĀC)
+
+ACACALOTL
+  ornithology: name of an aquatic bird, the Jabiru stork
+  Spanish: cuervo marino (Molina)
+  Scientific: Jabiru mycteria or Plegadis guarauna (White-faced Glossy Ibis)
+  Form: on CACALŌTL, incorporated morpheme Ā-TL
+
+ACACALŌTLAHTOA
+  verb intransitive: to speak like ibises
+  Form: on TLAHTOA, incorporated morpheme ĀCACALŌTL
+
+ĀCACAMPAXOA
+  verb intransitive: to drink water from the hollow of the hand
+  Form: on CACAMPAXOA, incorporated morpheme Ā-TL
+
+ĀCACAMPAXOĀNI
+  noun: one who drinks from the hollow of the hand
+  Form: eventual on ĀCACAMPAXOA
+
+ACACANA
+  zoology: name of a fish
+  Spanish: el corcobado, pez del Mar Pacífico (Clavijero)
+
+ĀCACAPACQUILITL
+  botanical: aquatic plant, Aganippea bellidiflora D.C.
+  Form: see ĀCATL, CAPĀNI and QUILITL
+
+ĀCACAPACXIHUITL
+  botanical: name of an aquatic plant
+  Description: Hernández I 60 (089)
+
+ĀCACATL
+  zoology: species of toad
+  Spanish: sapo de las cañas
+  Scientific: Bufo sp.
+  Form: compound noun on CACATL and ĀTL
+
+ĀCACHACHATL
+  zoology: variety of grasshopper/locust
+  English: a type of grasshopper, locust
+
+ĀCACHAPOLIN
+  zoology: species of large grasshopper with noisy, buzzing flight
+  Spanish: cierto género de langosta (Molina)
+  Scientific: Acridium peregrinum
+  Form: on CHAPOLIN, incorporated morpheme ĀCA-TL (in sense of arrow)
+
+ĀCACHATL
+  zoology: species of grasshopper
+  Spanish: género de langostas (Molina)
+
+ĀCACHICHICTLI
+  ornithology: Western Grebe or Elegant Grebe
+  English: Western grebe
+  Scientific: Aechmorphus occidentalis
+  Named for its song which repeats 'achichichic'
+  Form: compound noun on CHICHICTLI and ĀCATL
+
+ĀCACHINĀNCO
+  toponym/place name
+
+ĀCACHIQUIHUITL
+  noun: reed basket
+  Spanish: canasto hecho cañas (Molina)
+  English: reed basket, reed baskets
+  Form: on CHIQUIHUITL, incorporated morpheme ĀCA-TL
+
+ACACHTO
+  adverb: first, firstly
+  Spanish: primero, primeramente (Molina)
+  English: first, at first
+  Variant: ACATTO
+
+ACACHTOPA
+  synonym of ACACHTO: first, firstly
+  English: first
+
+ACACHTOPAHUIA
+  verb transitive: to be the first to do something
+  English: to be the first to do something
+
+ĀCACIHTLI
+  personal name
+
+ACACOCOYOTL
+  botanical: sort of parasitic plants (lianas) that grow in certain trees
+  Spanish: cuentas gordas que se crían en ciertos árboles (Molina)
+
+ĀCACOYOTL
+  botanical: name of a plant
+  Spanish: planta arundinacea de hojas anchas y hermosas flores (Clavijero)
+
+ĀCACPALLI
+  noun: seat of reeds, reed chair
+  Form: on ICPALLI, incorporated morpheme ĀCATL
+
+ĀCACUAHUITL
+  noun: calumet, reed tubes; smoking tube; chocolate beater
+  English: smoking tube, chocolate beater
+  Form: on CUAHUITL, incorporated morpheme ĀCA-TL
+
+ĀCACUAUHCAXTICA
+  in a basket
+
+ĀCACUAUHCHĪUHQUI
+  noun: one who makes calumets
+  English: a maker of reed smoking tubes
+  Form: on TLA-CHĪUHQUI, incorporated morpheme ĀCACUAHU-ITL
+
+ĀCACUAUHNĀMACAC
+  noun: seller of calumets
+  English: smoking tube seller
+  Form: on TLA-NĀMACAC, incorporated morpheme ĀCACUAHU-ITL
+
+ĀCACUEXHUIA
+  verb transitive: to use a reed partition to catch fish
+  English: he uses a weir
+
+ĀCACUEXTLI
+  noun: reed partition for catching fish
+  Spanish: canal de pescado (Molina)
+
+ĀCACUEYĀTL
+  zoology: small frog of the reeds
+  Scientific: Rana sp.
+  Form: on CUEYATL, incorporated morpheme ĀCA-TL
+
+ĀCAHUALCO
+  calendar: first month of the year (Clavijero), corresponding to our May
+  Also: ĀTLACĀHUALCO and CUAHUITL ĒHUA
+  Form: locative on ĀCĀHUALLI
+
+ĀCĀHUALLAH
+  1. locative: place covered with brush
+  Spanish: yerbal crecido (Molina)
+  2. toponym/place name
+
+ĀCĀHUALLI
+  1. large dry herbs used to light ovens; dry brush
+  Spanish: yerbas secas y grandes para encender hornos (Molina)
+  2. uncultivated land, fallow field
+  Spanish: baldía tierra (Molina)
+  Scientific: Tithonia tubaeformis (Jacq.) Cass.
+  Form: object noun on ĀCĀHUA
+
+ĀCĀHUATŌTŌTL
+  ornithology: small yellow or blue bird with grey on the back
+  English: small yellow or blue bird with grey on the back
+
+ĀCAHUIA
+  verb transitive: to catch (small animals) with reed arrows
+  Form: on ĀCA-TL
+
+ACAHUITZTLI
+  divine name, perhaps for YACAHUITZTLI
+
+ACAHZO
+  perhaps
+  ACAHZO YEH - or perhaps on the other hand
+
+ACAHZOMO
+  perhaps not
+
+ĀCAIHTIC
+  locative: in the reed fields
+  Spanish: dentro del carrizal
+
+ĀCAIXHUA
+  verb inanimate: to become covered with reeds (speaking of a field)
+  Form: on IXHUA, incorporated morpheme ĀCATL
+
+ĀCAĪXTLI
+  noun: reed knot, node of reed
+  Spanish: nudo de caña (Molina)
+  Form: on ĪXTLI and ĀCATL
+
+ĀCAIYECHICHĪNA
+  verb intransitive: to smoke tubes stuffed with tobacco and aromatic plants
+  Form: on CHICHĪNA, incorporated morpheme ĀCAIYETL
+
+ĀCAIYETL
+  noun: calumet, tube for smoking tobacco mixed with aromatic plants, cigar
+  Spanish: caña de tabaco; carrizo o caña llena de tabaco para fumarlo
+  English: tobacco tubes
+  Form: on IYETL and ĀCATL
+
+ĀCALĀCANA
+  verb intransitive: to beach a boat or canoe, to run aground
+  Spanish: hacer encallar el navío o la barca (Molina)
+  Form: on ĀCANA, incorporated morpheme ĀCALLI
+
+ĀCALAQUIA
+  verb transitive: 1. to submerge, plunge, put something in water
+  2. to embark someone
+  3. to embark something
+  verb reflexive: to embark (oneself)
+  Form: on CALAQUIA, incorporated morpheme ĀTL
+
+ĀCALCHĪMALEH
+  possessive noun: one who possesses a war canoe
+  English: shield-boatmen
+  Form: possessive noun on ĀCALCHĪMAL-LI
+
+ĀCALCHĪMALLI
+  noun: 1. war canoe, shield-boat
+  2. square shield proper to the pulque god Tōtoltēcatl
+  English: shield-boat
+  Form: on CHĪMALLI and ĀCALLI
+
+ĀCALCO
+  locative: in a boat, on a boat
+  English: in a boat, in the boat
+
+ĀCALCUĀCHPANCUAHUITL
+  noun: ship's mast
+  Spanish: mastel de nao (Molina)
+  Form: on CUAHUITL, incorporated morpheme ĀCALCUĀCHPAN-ITL
+
+ĀCALCUĀCHPANITL
+  noun: ship's sail
+  English: sail
+  Form: on CUĀCHPANITL and ĀCALLI
+
+ĀCALCUAUHYŌLLŌTL
+  noun: ship's mast
+  Spanish: mastel de nao (Molina)
+  Form: on CUAUHYŌLLŌTL and ĀCALLI
+
+ĀCALCUEXCOCHTLI
+  noun: stern, rear of ship
+  Spanish: popa de navío o de canoa (Molina)
+  Form: on CUEXCOCHTLI and ĀCALLI
+
+ĀCALEH
+  possessive noun: boat owner
+  plural: ĀCALEHQUEH - boat owners
+
+ĀCALHUAH
+  possessive noun: 1. one who possesses boats
+  2. divine/priestly title: 'Acalhuah Ōme Tōchtli'
+  Form: possessive noun on ĀCAL-LI
+
+ĀCALHUELTECA
+  verb intransitive: to steer a ship with a rudder
+  Spanish: gobernar la nao con el timón (Molina)
+
+ĀCALHUELTECAC
+  noun: one who steers a ship with rudder, helmsman
+  Form: perfect on ĀCALHUELTECA
+
+ĀCALHUELTECŌNI
+  noun (instrument): rudder, helm
+  English: helm, rudder
+
+ĀCALHUIA
+  verb transitive: to transport something by boat
+  verb reflexive: to sail for pleasure
+  Spanish: navegar para recrearse (Molina)
+  Form: on ĀCAL-LI
+
+ĀCALHUITEQUI
+  verb reciprocal: to crash into each other in/with boats
+  Form: on HUITEQUI, incorporated morpheme ĀCAL-LI
+
+ĀCALIHMACHŌNI
+  noun (instrument): rudder, tiller, what serves to steer a boat
+  Spanish: gobernalle de nave; gobernalle o timón (Molina)
+
+ĀCALIHUI
+  verb inanimate: to become curved, to become grooved
+  English: it becomes grooved, it becomes furrowed
+  Describes: the nape (CUEXCOCHTLI), the back (TOCUITLAPAN)
+  Form: on ĀCALLI
+
+ĀCALIUHQUI
+  adjective: curved, grooved
+  English: grooved, furrowed
+  Form: perfect on ĀCALIHUI
+
+ĀCALLACHIXQUI
+  noun: pilot, one who steers or watches over the boat
+  Form: on TLACHIXQUI and ĀCALLI
+
+ĀCALLAIHYĀYALIZTLI
+  noun: bilge, ship's waste
+  Spanish: sentina de nave (Molina)
+  Form: action noun on IHYĀYA, incorporated morpheme ĀCALLI
+
+ĀCALLANEHUIA
+  verb intransitive/reflexive: to charter, freight a ship
+  Form: on TLANEHUIA, incorporated morpheme ĀCALLI
+
+ĀCALLANELOH
+  noun: rower, sailor, deckhand
+  Form: perfect on NELOA, incorporated morpheme ĀCAL-LI
+
+ĀCALLAPĀNALIZTLI
+  noun: shipwreck, breaking of a boat
+  English: shipwreck
+  Form: action noun on TLAPĀNA, incorporated morpheme ĀCAL-LI
+
+ĀCALLAPĀNI
+  verb intransitive/inanimate: to suffer shipwreck; to break (speaking of a boat)
+  Form: on TLAPĀNI, incorporated morpheme ĀCAL-LI
+
+ĀCALLI
+  noun: 1. boat, ship, canoe, vessel
+  Spanish: navío, barca, canoa etc. (Molina)
+  English: boat, canoe
+  2. unit of measure for grains or water
+  Form: on CALLI and ĀTL
+
+ĀCALMAITL
+  noun: side/flank of a boat
+  Form: on MĀITL and ĀCALLI
+
+ĀCALMOCUITLAHUIĀNI
+  noun: sailor, one who takes care of the boat
+  Form: eventual on CUITLAHUIA, incorporated morpheme ĀCALLI
+
+ĀCALNEMACHILIA
+  verb intransitive: to steer/pilot a boat
+  Form: on NEMACHILIA, incorporated morpheme ĀCALLI
+
+ĀCALNEMACHILIĀNI
+  noun: pilot, helmsman
+  Form: eventual on ĀCALNEMACHILIA
+
+ĀCALOA
+  verb transitive: to channel, to carve wood or other material
+  Spanish: acanalar madero o cosa semejante (Molina)
+  English: to carve a channel in wood
+  Form: suffix -OA on ĀCAL-LI
+
+ĀCALOHCO
+  locative: on the canal, over the canal
+  English: at the canal, over the canal
+
+ĀCALOHTĒNCO
+  locative: at the edge of a canal
+  English: at the canal's edge
+
+ĀCALOHTLI
+  noun: canal
+  English: canal, canals
+  Form: on OHTLI and ĀCAL-LI
+
+ĀCALPĀPANO
+  verb intransitive: to sail for pleasure, recreation
+  Spanish: navegar para recrearse (Molina)
+  Form: on reduplication of PANO, incorporated morpheme ĀCALLI
+
+ĀCALPATIYŌTIA
+  verb: to charter a boat
+  Spanish: fletar navío (Molina)
+  Form: on PATIYŌTIA, incorporated morpheme ĀCALLI
+
+ĀCALPATIYŌTL
+  noun: fare, passage cost on a boat
+  Spanish: flete que paga el pasajero (Molina)
+  Form: on PATIYŌTL and ĀCALLI
+
+ĀCALQUETZQUI
+  noun: boat builder
+  plural: ĀCALQUETZQUEH - boatmakers
+  English: boatmakers
+  Form: perfect as agent noun
+
+ĀCALQUĪXTIA
+  verb intransitive: to beach a boat
+  Spanish: sacar naves del agua (Molina)
+  Form: on QUĪXTIA, incorporated morpheme ĀCALLI
+
+ĀCALTECHTLI
+  noun: wall of water
+  Cosmological term: the sky as a house with water walls
+  Form: on CALTECHTLI and Ā-TL
+
+ĀCALTĒCOYĀN
+  locative: port, place of embarkation, ship station
+  Spanish: puerto de mar, o embarcadero (Molina)
+  English: dock, pier, wharf; the place for beaching boats
+  Also: toponym
+
+ĀCALTĒMA
+  verb transitive: to load onto boats, to load a ship
+  verb reflexive: to pile into boats
+  Spanish: cargar la nao, o embarcar y meter algo con ella (Molina)
+
+ĀCALTEPITON
+  diminutive: small ship, launch, canoe, small boat
+  Spanish: barca pequeña (Molina)
+  Form: diminutive on ĀCAL-LI
+
+ĀCALTETEPŌN
+  zoology: variety of venomous lizard, Mexican Beaded Lizard
+  Scientific: Heloderma horridum
+  Spanish: lagarto (Clavijero)
+  Form: apocopated from ĀCALTETEPŌNTLI
+
+ĀCALTETL
+  noun: ship's ballast (usually with TLATILIUHCĀTECŌNI)
+  Form: on TETL and ĀCALLI
+
+ĀCALTEZCATL
+  noun: concave mirror
+  English: concave mirror-stones
+  Form: on TEZCATL and ĀCALLI
+
+ĀCALTIC
+  adjective: hollowed, curved; tubular, cylindrical
+  English: grooved, furrowed; cylindrical
+  Form: on ĀCAL-LI
+
+ĀCALTICA
+  instrumental: by boat, by ship, in a boat
+  English: by boat, by means of a boat, in boats
+
+ĀCALTŌNTLI
+  diminutive: small ship, launch; any boat-shaped object
+  Form: diminutive on ĀCALLI
+
+ĀCALYACAC
+  locative: at the prow of a ship
+  English: at the prow of a boat
+
+ĀCALYACATL
+  noun: prow of a boat
+  Spanish: proa, frente, punta del barco
+  English: boat-prow
+  Form: on YACATL and ĀCALLI
+
+ĀCAMAHPILLI
+  noun: reed, stick, pointer
+  Spanish: puntero (Molina)
+  Form: on MAHPILLI, incorporated morpheme ĀCA-TL
+
+ĀCAMĀPICHTLI
+  1. noun: handful of reeds
+  2. personal name (first Aztec ruler of Tenochtitlan)
+
+ĀCAMĀTLATL
+  noun: zacate net
+  Used to make bags called CHICHICUAHTLI
+  Form: on MĀTLATL, incorporated morpheme ĀCA-TL
+
+ĀCAMAYA
+  noun: crab, crayfish
+  Spanish: langostina (X25)
+  English: crayfish, crab
+  Perhaps: Penaeus sp.
+
+ĀCAMELAHUA
+  verb intransitive: to straighten arrows
+  Form: on MELAHUA, incorporated morpheme ĀCA-TL (meaning arrow)
+
+ĀCAMETL
+  botanical: name of a variety of agave
+  Form: on METL, incorporated morpheme ĀCA-TL
+
+ĀCAMOHTLI
+  botanical: variety of sweet potato (CAMOHTLI)
+  Reference: Hernández IV 351
+
+ĀCANA
+  verb intransitive: to be beached, to be lying on the ground
+  verb reflexive: to run aground, to beach (speaking of a ship)
+  verb transitive: to beach, to pull something out of water
+  Note: not to be confused with AHCANA (to winnow)
+
+ĀCANACOCHTLI
+  noun: reed ear plugs, ear ornaments
+  English: reed ear plugs
+  Form: on NACOCHTLI, incorporated morpheme ĀCA-TL
+
+ĀCANACTLI
+  noun: thin stream
+  English: (describes a water course, ĀPITZACTLI)
+  Form: on CANACTLI, incorporated morpheme Ā-TL
+
+ĀCANEHNEQUI
+  verb reflexive: to resemble a reed
+  Form: on NEHNEQUI, incorporated morpheme ĀCA-TL
+
+ĀCANTOC
+  verb reflexive: to be lying down, stretched out
+  Spanish: echado estar y tendido (Molina)
+  Form: composed verb on ĀCANA
+
+ĀCAOXITL
+  noun: reed vinegar (plant unknown)
+  Form: on OXITL, incorporated morpheme ĀCA-TL
+
+ĀCAPACHTLI
+  botanical: name of a plant
+  Reference: Hernández I 31
+
+ĀCAPAHTLI
+  botanical: medicinal plant with radish-like leaves
+  Spanish: planta medicinal semejante en las hojas al rábano (Clavijero)
+  English: medicinal plant with radish-like leaves
+  Perhaps: Iva frutescens or Parva sambucus
+  Form: on PAHTLI and ĀCA-TL
+
+ĀCAPAN
+  toponym/place name
+
+ĀCAPANTZINCO
+  toponym/place name
+
+ĀCAPAPACQUITL
+  botanical: Aganippea bellidiflora Dc.
+
+ĀCAPECHTLI
+  noun: reed hurdle, raft, reed mat
+  Spanish: zarzo de cañas, o balsa para pasar río (Molina)
+  English: reed mat
+  Form: on TLA-PECHTLI, incorporated morpheme ĀCA-TL
+
+ĀCAPETLATL
+  noun: reed mat
+  Spanish: estera de cañas (Molina)
+  English: reed mat
+  Form: on PETL-A-TL and ĀCATL
+
+ĀCAPITZACTLAH
+  locative: place where reeds grow
+  Spanish: carrizal (Molina)
+
+ĀCAPITZACTLI
+  botanical: rush, type of reed
+  Spanish: carrizo, especie de caña (Molina)
+  English: reed stalk
+  Form: on PITZACTLI, incorporated morpheme ĀCA-TL
+
+ĀCAQUILITL
+  botanical: name of a plant
+  Form: on QUILITL and ĀCA-TL
+
+ĀCATANAHTLI
+  noun: small reed basket
+  English: small reed basket
+  Form: on TANAHTLI, incorporated morpheme ĀCA-TL
+
+ĀCATĒCCIZTLI
+  noun: reed flute
+  Form: on TĒCCIZTLI (here meaning flute/wind instrument), incorporated morpheme ĀCA-TL
+
+ĀCATECHICHICTLI
+  ornithology: Western Grebe or Elegant Grebe
+  English: western grebe
+  Scientific: Aechmorphus occidentalis
+
+ĀCATECOMATL
+  noun: vessel on which one placed a reed to suck liquid
+  Form: on TECOMATL, incorporated morpheme ĀCA-TL
+
+ĀCATEQUI
+  verb intransitive: to cut reeds
+  Form: on TEQUI, incorporated morpheme ĀCA-TL
+
+ĀCATIC
+  adjective: 1. reed-like, cylindrical
+  English: reed-like, cylindrical
+  2. growing (of plants)
+  3. metaphor: chief, governor (Olmos)
+  Form: on ĀCA-TL
+
+ĀCATITLAN
+  toponym/place name (place of reeds)
+
+ĀCATIYA
+  verb inanimate: to grow, to develop a stalk (speaking of corn)
+  Form: on ĀCA-TL
+
+ĀCATL
+  noun: 1. botanical: reed (Phragmites communis Trin.)
+  Spanish: caña (Molina)
+  English: reed
+  2. locative: ĀCATL ĪYACAPAN - one of the exits of the great temple of Tenochtitlan
+  3. sense of MĪTL (arrow)
+  English: arrow, dart
+  4. calendar: 13th sign of the Tonalamatl, associated with the East
+  CE ĀCATL - the year when Quetzalcōātl died
+  Also: personal name
+  Form: base form
+
+ĀCATLAH
+  locative: reed field, place of reeds
+  Spanish: cañaveral (Molina)
+
+ĀCATLĀLIA
+  verb reflexive: to install oneself on the reeds
+  Form: on TLĀLIA, incorporated morpheme ĀCATL
+
+ĀCATLAPĪTZALLI
+  noun: ornament worn in the nose by the Huaxtecs
+  Spanish: cañutillo pequeño de oro bajo (Tezozomoc)
+  Form: on TLAPĪTZALLI and ĀCA-TL
+
+ĀCATLATECTLI
+  noun: tube
+  Spanish: cañuto (Molina)
+  Form: on TLATECTLI, incorporated morpheme ĀCA-TL
+
+ĀCATLOHTLI
+  ornithology: name of a falcon
+  Synonym of ITZTLOHTLI
+  Form: on TLOHTLI and ĀCATL
+
+ĀCATŌNAL
+  ritual name of a priest of Chālchiuhtli Īcue
+
+ACATTO
+  variant of ACACHTO: first, firstly
+  Spanish: primero
+  English: first
+
+ACATTOPA
+  locative: first, firstly
+  Spanish: primero
+
+ĀCATZACUALLI
+  noun: reed enclosure
+  English: the reed enclosure
+
+ĀCATZĀLAN
+  locative: in the midst of reeds, among the reeds
+  English: among the reeds, among the canes
+  Describes the original site of Tenochtitlan
+  Form: locative suffix -TZĀLAN on ĀCATL
+
+ĀCATZANAICXITL
+  botanical: name of a plant
+  Spanish: cierta planta de muchos tallos y hojas muy pequeñas (Clavijero)
+  Form: on ICXITL and ĀCATZANATL
+
+ĀCATZANATL
+  ornithology: starling
+  Spanish: tordo (Molina)
+  English: starling
+  Form: on TZANATL and ĀCATL
+
+ĀCATZIN
+  personal name (honorific)
+
+ĀCATZINCO
+  toponym/place name
+
+ĀCATZŌNTLI
+  noun: reed shoots
+  English: cane shoots
+
+ĀCAXAXAN
+  botanical: name of two medicinal plants
+  Form: apocopated on XAXANTLI and ĀCATL
+
+ĀCAXEL
+  personal name
+
+ĀCAXĪLŌTIC
+  botanical: herb with bitter medicinal root
+  Form: on ĀCAXĪLŌTL
+
+ĀCAXĪLŌTL
+  botanical: name of the edible root of the rush TŌLPATLACTLI
+  Form: on XĪLŌTL, incorporated morpheme ĀCA-TL
+
+ĀCAXILQUI
+  adjective: having black stripes (lengthwise)
+  Describes ritual papers painted with black bands
+  Form: root XILQUI, perhaps perfect on IHXILI
+
+ĀCAXITL
+  noun: reservoir, water basin
+  Spanish: alberca (Molina)
+  English: watering trough
+  Form: on CAX-I-TL, incorporated morpheme Ā-TL
+
+ĀCAXŌCH
+  another name for the deer (MĀZATL)
+  Form: constructed with suffix -XŌCH
+
+========================================
+  C
+========================================
+
+CACALACHTŌTŌTL
+  zoology: flycatcher, variety of bird
+  Spanish: avispero (pájaro)
+  English: Mexican flycatcher
+  Probably: Myiarchus sp.
+  Form: on TŌTŌTL, incorporated morpheme CĀCALĀCH-IN
+
+CACALACHYOH
+  possessive noun: having a rattle
+  English: with a rattle
+  Form: possessive noun on CACALACH-TLI
+
+CACALANIA
+  verb transitive: to make something resound
+
+CACĀHUATL
+  noun: cacao, chocolate
+  Spanish: cacao
+  From this derives the English word "cacao" and "chocolate"
+
+CACTIA
+  verb transitive: to put on sandals
+  verb reflexive: to put on one's sandals
+  Spanish: calzarse
+  Form: causative on CACTI
+
+CACTLI
+  noun: sandal, footwear
+  Spanish: zapato, sandalia
+  English: sandal, shoe
+  Form: base form
+
+CACOMITL
+  botanical: plant with edible root tasting like chestnut
+  Scientific: Tigridia pavonia Kerr.
+  Spanish: ciertas raíces que tienen sabor de castañas (Molina)
+  Mexicanism: cacomite
+
+CĀHUIA
+  verb transitive: to leave something, to abandon
+  verb reflexive: to stay, to remain
+  Spanish: dejar, abandonar
+
+CALĀQUI
+  verb intransitive: to enter (a house, building)
+  Spanish: entrar
+  English: to enter
+  Form: on CALLI (house) and AQUI (to enter)
+
+CALLI
+  noun: house, building
+  Spanish: casa
+  English: house
+  Form: base form
+
+CALMĒCAC
+  noun: priestly school, religious academy
+  Spanish: escuela sacerdotal
+  English: priestly school, temple school
+
+CALPŌLLI
+  noun: neighborhood, district, ward; large house
+  Spanish: barrio
+  English: neighborhood, ward, clan
+
+CAMATL
+  noun: mouth
+  Spanish: boca
+  possessed form: -CAMAC
+
+CANA
+  somewhere, in some place
+  English: somewhere
+
+CE
+  numeral: one
+  Spanish: uno
+  English: one
+
+CECEN
+  each, each one
+  English: each
+
+CEHUA
+  verb intransitive: to be cold, to feel cold
+  verb transitive: to cool something
+  Spanish: hacer frío
+  Form: base form
+
+CEMĀNĀHUAC
+  noun: the whole world, the earth
+  Spanish: el mundo entero
+  English: the world, the earth
+  Literally: "the place surrounded by water"
+  Form: on CE, MANI, and ĀHUAC
+
+CEMILHUITL
+  noun: one day, all day
+  English: one day, a whole day
+  Form: on CE and ILHUITL
+
+CEMPOHUALLIA
+  numeral: twenty (one count)
+  Spanish: veinte
+  Form: on CE and POHUALLIA
+
+CENTLI
+  noun: ear of dried corn
+  Spanish: mazorca de maíz seca
+  English: dried ear of corn
+
+CĒQUINTIN
+  some people, some
+  English: some, certain ones
+  Form: on CE with plural suffix
+
+CHĀLCHIUHTETL
+  noun: precious stone, jade
+  English: jade, precious green stone
+  Form: on CHĀLCHIUITL and TETL
+
+CHĀLCHIUITL
+  noun: jade, precious green stone
+  Spanish: jade
+  English: jade
+
+CHAPOLIN
+  noun: grasshopper
+  Spanish: chapulín
+  English: grasshopper
+  Form: base form
+
+CHÍA
+  noun: chia (plant and its seeds)
+  Spanish: chía
+  Scientific: Salvia hispanica
+
+CHICHI
+  noun: dog
+  Spanish: perro
+  English: dog
+
+CHICHĪHUA
+  verb transitive: to prepare, to make ready
+  Spanish: preparar
+  English: to prepare
+
+CHĪCHĪLTIC
+  adjective: red
+  Spanish: rojo
+  English: red
+  Form: on reduplication of CHĪLTIC
+
+CHICHINA
+  verb transitive: to suck
+  Spanish: chupar
+  English: to suck
+
+CHĪLLI
+  noun: chili pepper
+  Spanish: chile
+  English: chili pepper
+
+CHIMALLI
+  noun: shield
+  Spanish: escudo
+  English: shield
+
+CHIQUIHUITL
+  noun: basket
+  Spanish: canasta
+  English: basket
+
+CHŌCA
+  verb intransitive: to cry, to weep
+  Spanish: llorar
+  English: to cry, to weep
+
+CIHUĀ
+  noun: woman
+  Spanish: mujer
+  English: woman
+  Form: apocopated from CIHUĀTL
+
+CIHUĀTL
+  noun: woman, wife
+  Spanish: mujer, esposa
+  English: woman, wife
+
+CIHUĀTĒUCTLI
+  noun: noblewoman, lady
+  English: noblewoman
+  Form: on CIHUĀTL and TĒUCTLI
+
+CŌĀTL
+  noun: snake, serpent; twin
+  Spanish: serpiente; gemelo
+  English: snake, serpent; twin
+
+COCHI
+  verb intransitive: to sleep
+  Spanish: dormir
+  English: to sleep
+
+COCHIPITZAHUA
+  verb intransitive: to doze
+  Form: on COCHI and PITZAHUA
+
+COCŌA
+  verb transitive: to hurt someone
+  verb reflexive: to be sick, to hurt
+  Spanish: doler, estar enfermo
+  English: to hurt, to be ill
+
+CŌLŌTL
+  noun: scorpion
+  Spanish: alacrán
+  English: scorpion
+
+COMALLI
+  noun: griddle (for cooking tortillas)
+  Spanish: comal
+  English: griddle
+
+COMITL
+  noun: pot, vessel
+  Spanish: olla
+  English: pot, cooking pot
+
+CONI
+  verb transitive: to drink it
+  Spanish: beberlo
+  Impersonal: on ĪI
+
+CŌPAL
+  See COPALLI
+
+COPALLI
+  noun: copal (aromatic resin)
+  Spanish: copal
+  English: copal, incense
+
+COYŌTL
+  noun: coyote
+  Spanish: coyote
+  English: coyote
+
+CUĀCHPĀMITL
+  noun: banner, flag
+  Form: on CUĀITL, CHPĀNA, and MITL
+
+CUĀHUITL
+  noun: tree; wood; stick
+  Spanish: árbol; madera; palo
+  English: tree; wood; stick
+
+CUĀLĀN
+  verb reflexive: to become angry
+  Spanish: enojarse
+  English: to become angry
+
+CUALLI
+  adjective: good
+  Spanish: bueno
+  English: good
+
+CUĀUHTĒMOC
+  personal name: "Descending Eagle"
+  Last Aztec emperor
+  Form: on CUĀUHTLI and TĒMOA
+
+CUĀUHTITLAN
+  toponym: "place among the trees/eagles"
+  Form: on CUĀUHTLI and -TITLAN
+
+CUĀUHTLI
+  noun: eagle
+  Spanish: águila
+  English: eagle
+
+CUĒITL
+  noun: skirt (woman's garment)
+  Spanish: falda
+  English: skirt
+
+CUEMITL
+  noun: cultivated field, furrow
+  Spanish: surco, milpa
+  English: furrow, field
+
+CUĒP
+  preterite stem of CUEPONI
+  
+CUEPŌNI
+  verb intransitive: to bloom, to blossom
+  Spanish: florecer
+  English: to bloom
+
+CUEYĀTL
+  noun: frog
+  Spanish: rana
+  English: frog
+
+CUĪCA
+  verb intransitive: to sing
+  Spanish: cantar
+  English: to sing
+
+CUĪCATL
+  noun: song
+  Spanish: canto
+  English: song
+
+CUITLACOPĪN
+  noun: intestine, gut
+  Form: on CUITLATL and COPĪNA
+
+CUITLAPAN
+  locative: behind, back
+  English: behind, at the back
+
+CUITLATL
+  noun: excrement; residue
+  Spanish: excremento
+  English: excrement
+
+========================================
+  E
+========================================
+
+EHĒCATL
+  noun: wind; air
+  Spanish: viento
+  English: wind
+  Also: name of Quetzalcōātl in his wind aspect
+  Form: on IHIYŌTL (breath)
+
+ĒHUA
+  verb intransitive: to rise up, to depart, to leave
+  Spanish: levantarse, partir
+  English: to rise, to leave
+
+EL-
+  prefix indicating instrument or location
+
+ELHUIA
+  verb transitive: to tell someone something
+  Form: applicative
+
+ĒLŌTL
+  noun: corn cob (fresh), ear of green corn
+  Spanish: elote
+  English: corn cob
+  Origin of Mexican Spanish word "elote"
+
+ĒPCO
+  See ĒPCŌĀTL
+
+ĒPCŌĀTL
+  noun: seashell; pearl
+  Form: on ĒHUATL and CŌĀTL
+
+ĒXCĀN
+  locative: in three places
+  Form: on ĒYI and -CAN
+
+ĒYI
+  numeral: three
+  Spanish: tres
+  English: three
+
+EZTLI
+  noun: blood
+  Spanish: sangre
+  English: blood
+
+========================================
+  H
+========================================
+
+HUĀCZŌLLI
+  adjective: dried out
+  English: dried out
+  Form: on HUĀQUI (to dry)
+
+HUĀHUALOA
+  verb transitive: to bark at someone or something
+  Form: reduplication of HUALOA
+
+HUĀHUA
+  verb intransitive: to scratch, to scrape
+  Form: reduplication of HUA
+
+HUĀHUĀNA
+  verb transitive: 1. to dig, furrow the earth
+  2. to scratch, to cover with scratches
+  3. to cut (leather) into strips
+  English: to scratch, scrape something, to incise lines
+
+HUĀLLAUH
+  verb intransitive: to come (toward speaker)
+  Spanish: venir
+  English: to come
+  Form: compound of HUĀL- (hither) and YAUH (to go)
+
+HUĀN
+  conjunction: and (between nouns)
+  English: and
+
+HUĀPĀHUA
+  verb transitive: to raise, to educate (a child)
+  Spanish: criar
+  English: to raise, rear
+
+HUĀQUI
+  verb intransitive: to dry up, to become dry
+  Spanish: secar
+  English: to dry
+
+HUEHUE
+  adjective: old (person)
+  Spanish: viejo
+  English: old
+  Form: reduplication
+
+HUEHUETL
+  noun: drum (large upright drum)
+  Spanish: tambor
+  English: drum
+
+HUEHUETZCA
+  verb intransitive: to laugh
+  Spanish: reírse
+  English: to laugh
+  Form: frequentative of HUETZCA
+
+HUEI
+  See HUĒYI
+
+HUĒLIC
+  adjective: tasty, delicious, fragrant
+  Spanish: sabroso
+  English: tasty, delicious
+
+HUĒYI
+  adjective: big, large, great
+  Spanish: grande
+  English: big, large, great
+
+HUETZCA
+  verb intransitive: to laugh
+  Spanish: reír
+  English: to laugh
+
+HUETZI
+  verb intransitive: to fall
+  Spanish: caer
+  English: to fall
+
+HUĪLANA
+  verb transitive: to drag, to pull
+  Spanish: arrastrar
+  English: to drag
+
+HUĪPĪLLI
+  noun: blouse, woman's garment
+  Spanish: huipil
+  English: huipil, blouse
+
+HUITEQUI
+  verb transitive: to beat, to strike
+  Spanish: golpear
+  English: to beat, to strike
+
+HUITZILIN
+  noun: hummingbird
+  Spanish: colibrí
+  English: hummingbird
+
+HUITZILOPOCHTLI
+  deity name: "Left-handed Hummingbird" or "Hummingbird of the South"
+  Principal deity of the Aztecs, god of war and sun
+  Form: on HUITZILIN and OPOCHTLI
+
+HUĪTZTLI
+  noun: thorn, spine
+  Spanish: espina
+  English: thorn, spine
+
+========================================
+  I
+========================================
+
+ICHCATL
+  noun: 1. cotton
+  2. sheep (post-conquest meaning)
+  Spanish: algodón; oveja
+  English: cotton; sheep
+
+ICHCHIQUI
+  verb transitive: to scrape
+  Form: on IX- and CHIQUI
+
+ICHPŌCHTLI
+  noun: young woman, maiden, virgin
+  Spanish: doncella
+  English: maiden, young woman
+
+ICHTACA
+  adverb: secretly, in hiding
+  Spanish: secretamente
+  English: secretly
+
+ICHTEQUI
+  verb transitive: to steal
+  Spanish: robar
+  English: to steal
+
+ICHTLI
+  noun: maguey fiber
+  Spanish: fibra de maguey
+  English: maguey fiber
+
+ICPALLI
+  noun: seat, chair, throne
+  Spanish: asiento, silla
+  English: seat, chair
+
+ĪHUA
+  verb impersonal: it is said that...
+  Form: passive of IHTOA
+
+IHCUĀC
+  conjunction: when, at the time that
+  Spanish: cuando
+  English: when
+
+IHIYŌTL
+  noun: breath, spirit
+  Spanish: aliento
+  English: breath
+
+IHMATI
+  verb transitive: to know how to do something
+  Spanish: saber hacer
+  English: to know how
+
+IHTOA
+  verb transitive: to say, to speak
+  Spanish: decir
+  English: to say
+
+IHTŌTIA
+  verb intransitive: to dance
+  Spanish: bailar
+  English: to dance
+
+ILHUICATL
+  noun: sky, heaven
+  Spanish: cielo
+  English: sky, heaven
+
+ILHUITL
+  noun: day; feast day, festival
+  Spanish: día; fiesta
+  English: day; feast, festival
+
+ILHUIA
+  verb transitive: to tell someone something
+  Spanish: decir a alguien
+  English: to tell someone
+
+ILPIA
+  verb transitive: to tie, to bind
+  Spanish: atar
+  English: to tie
+
+IN
+  article/demonstrative: the, this
+  Spanish: el, la, este
+  English: the, this
+
+INAMIC
+  noun: spouse, companion
+  Spanish: esposo/a
+  English: spouse
+
+ĪPAN
+  postposition: on it, upon it
+  Spanish: sobre
+  English: on, upon
+
+ĪTECH
+  postposition: in it, on it
+  Spanish: en
+  English: in, on
+
+ITLA
+  pronoun: something
+  Spanish: algo
+  English: something
+
+ITQUI
+  verb transitive: to carry
+  Spanish: cargar
+  English: to carry
+
+ITTA
+  verb transitive: to see
+  Spanish: ver
+  English: to see
+
+ĪTZTLI
+  noun: obsidian
+  Spanish: obsidiana
+  English: obsidian
+
+IXAYŌTL
+  noun: tear (from eye)
+  Spanish: lágrima
+  English: tear
+
+IXCO
+  locative: on the surface, face
+  Form: on ĪX-TLI
+
+IXPAN
+  locative: in front of, before
+  English: in front of, before
+  Form: on ĪX-TLI
+
+IXTLI
+  noun: face, eye, surface
+  Spanish: cara, ojo
+  English: face, eye
+
+IXTLAHUA
+  verb transitive: to pay
+  Spanish: pagar
+  English: to pay
+
+IXTLAHUĀTL
+  noun: plain, flat land
+  Spanish: llano
+  English: plain, flat land
+
+IYETL
+  noun: tobacco
+  Spanish: tabaco
+  English: tobacco
+
+========================================
+  M
+========================================
+
+MĀCA
+  verb bitransitive: to give
+  Spanish: dar
+  English: to give
+  Imperative: ximāca - give it!
+
+MACĒHUALTIN
+  noun plural: common people, commoners
+  Spanish: macehuales
+  English: commoners
+  Singular: MACĒHUALLI
+
+MACUĪLLI
+  numeral: five
+  Spanish: cinco
+  English: five
+
+MAHCĒHUAL
+  See MACĒHUALLI
+
+MĀHUIZTIC
+  adjective: marvelous, admirable
+  Spanish: maravilloso
+  English: marvelous
+
+MĀITL
+  noun: hand, arm
+  Spanish: mano, brazo
+  English: hand, arm
+
+MALĪNA
+  verb transitive: to twist, to spin
+  Spanish: torcer
+  English: to twist
+
+MANCA
+  verb inanimate: to be spread out
+  Spanish: estar extendido
+
+MANI
+  verb inanimate: to be spread out, to be
+  Spanish: estar
+  English: to be, to be located
+
+MĀTLATL
+  noun: net
+  Spanish: red
+  English: net
+
+MAXTLATL
+  noun: loincloth, breechcloth
+  Spanish: maxtlate
+  English: loincloth
+
+MĀZĀTL
+  noun: deer
+  Spanish: venado
+  English: deer
+
+MEHUA
+  verb intransitive: to rise
+  English: to rise
+
+METL
+  noun: maguey, agave plant
+  Spanish: maguey
+  English: maguey, agave
+
+MĒZTLI
+  noun: moon; month
+  Spanish: luna; mes
+  English: moon; month
+
+MIC-
+  stem of MIQUI: to die
+
+MĪCHIN
+  noun: fish
+  Spanish: pez
+  English: fish
+
+MICTIA
+  verb transitive: to kill
+  Spanish: matar
+  English: to kill
+  Form: causative of MIQUI
+
+MICTLĀN
+  noun: place of the dead, underworld
+  Spanish: Mictlán
+  English: place of the dead, underworld
+
+MĪLLI
+  noun: cultivated field
+  Spanish: milpa
+  English: cultivated field
+
+MIQUI
+  verb intransitive: to die
+  Spanish: morir
+  English: to die
+
+MĪTL
+  noun: arrow
+  Spanish: flecha
+  English: arrow
+
+MITZ-
+  object prefix: you (singular)
+  English: you
+
+MOCHI
+  pronoun: all, everything
+  Spanish: todo
+  English: all, everything
+
+MOCTEZUMA
+  personal name: "He frowns like a lord"
+  Name of two Aztec emperors
+  Form: on MO-, TĒUCTLI, and ZŌMA
+
+MOMOZTLA
+  adverb: every day
+  Spanish: cada día
+  English: every day
+
+MOYŌTL
+  noun: mosquito
+  Spanish: mosquito
+  English: mosquito
+
+========================================
+  N
+========================================
+
+NACATL
+  noun: meat, flesh
+  Spanish: carne
+  English: meat, flesh
+
+NACAZTLI
+  noun: ear
+  Spanish: oreja
+  English: ear
+
+NAHUALLI
+  noun: sorcerer, shape-shifter
+  Spanish: nagual
+  English: sorcerer, nagual
+
+NAHUI
+  numeral: four
+  Spanish: cuatro
+  English: four
+
+NAHUATLAHTOLLI
+  noun: Nahuatl language
+  Spanish: lengua náhuatl
+  English: Nahuatl language
+  Form: on NAHUATL and TLAHTOLLI
+
+NĀMACA
+  verb transitive: to sell
+  Spanish: vender
+  English: to sell
+
+NĀMIQUI
+  verb transitive: to meet
+  Spanish: encontrar
+  English: to meet
+
+NANTLI
+  noun: mother
+  Spanish: madre
+  English: mother
+
+NĀPPA
+  numeral: four times
+  English: four times
+  Form: on NAHUI
+
+NE
+  prefix: reflexive, reciprocal
+  English: reflexive
+
+NECH-
+  object prefix: me
+  English: me
+
+NECI
+  verb intransitive: to appear
+  Spanish: aparecer
+  English: to appear
+
+NEHUA
+  See NĒHUATL
+
+NĒHUATL
+  pronoun: I, me
+  Spanish: yo
+  English: I, me
+
+NĒLTIA
+  verb transitive: to verify
+  Form: causative of NELLI
+
+NELTOCA
+  verb transitive: to believe
+  Spanish: creer
+  English: to believe
+
+NEMACHTILLI
+  noun: student
+  Spanish: estudiante
+  English: student
+
+NEMI
+  verb intransitive: to live, to walk
+  Spanish: vivir, andar
+  English: to live, to walk
+
+NENEPILLI
+  noun: tongue
+  Spanish: lengua
+  English: tongue
+
+NENETL
+  noun: doll, idol
+  Spanish: muñeca, ídolo
+  English: doll, idol
+
+NEQUI
+  verb transitive: to want, to desire
+  Spanish: querer
+  English: to want
+
+NEXTIA
+  verb transitive: to show, to reveal
+  Spanish: mostrar
+  English: to show
+
+NŌCHTLI
+  noun: prickly pear fruit; nopal cactus
+  Spanish: tuna; nopal
+  English: prickly pear
+
+NOHUI
+  adverb: everywhere
+  Form: on NO-
+
+NOHUIYĀN
+  adverb: everywhere
+  English: everywhere
+
+NOMA
+  pronoun: still, yet
+  English: still
+
+========================================
+  O
+========================================
+
+OC
+  adverb: still, yet; first
+  Spanish: todavía; primero
+  English: still, yet; first
+
+OCĒLŌTL
+  noun: jaguar, ocelot
+  Spanish: jaguar
+  English: jaguar, ocelot
+
+OCTLI
+  noun: pulque (fermented agave drink)
+  Spanish: pulque
+  English: pulque
+
+OHPAN
+  locative: on the road
+  Form: on OHTLI
+
+OHTLATOCA
+  verb intransitive: to travel, to follow the road
+  Form: on OHTLI and TOCA
+
+OHTLI
+  noun: road, path, way
+  Spanish: camino
+  English: road, path
+
+OLĪN
+  noun: movement; rubber
+  Spanish: movimiento; hule
+  English: movement; rubber
+
+OLĪNIA
+  verb intransitive: to move
+  Spanish: moverse
+  English: to move
+
+ŌME
+  numeral: two
+  Spanish: dos
+  English: two
+
+OMITL
+  noun: bone
+  Spanish: hueso
+  English: bone
+
+ŌMPA
+  adverb: there
+  Spanish: allá
+  English: there
+
+ONCĀN
+  adverb: there, in that place
+  Spanish: allí
+  English: there
+
+ONOC
+  verb inanimate: to be lying down
+  Spanish: estar acostado
+  English: to be lying
+
+OQUICHTLI
+  noun: man, male
+  Spanish: hombre, varón
+  English: man, male
+
+OTOMITL
+  noun: Otomi (person of Otomi ethnicity)
+  Spanish: otomí
+  English: Otomi
+
+========================================
+  P
+========================================
+
+PACA
+  verb transitive: to wash
+  Spanish: lavar
+  English: to wash
+
+PAHTLI
+  noun: medicine, remedy
+  Spanish: medicina
+  English: medicine
+
+PAHTIC
+  adjective: healthy, healed
+  English: healthy
+  Form: perfect on PAHTI
+
+PĀMITL
+  noun: banner, flag
+  Spanish: bandera
+  English: banner
+
+PAN
+  postposition: on, upon
+  Spanish: sobre
+  English: on
+
+PĀNOA
+  verb transitive: to cross, to pass
+  Spanish: pasar
+  English: to pass, to cross
+
+PAPĀLŌTL
+  noun: butterfly
+  Spanish: mariposa
+  English: butterfly
+
+PĀTLI
+  noun: medicine
+  See PAHTLI
+
+PETLATL
+  noun: mat
+  Spanish: petate
+  English: mat
+
+PETLĀHUA
+  verb transitive: to uncover
+  Spanish: descubrir
+  English: to uncover
+
+PEYŌTL
+  noun: peyote cactus
+  Spanish: peyote
+  Scientific: Lophophora williamsii
+
+PIĀLLI
+  noun: storage for corn
+  Spanish: granero
+  English: granary
+
+PILHUIA
+  verb bitransitive: to give as a child
+  Form: applicative of PILLI
+
+PILLI
+  noun: child; noble
+  Spanish: niño; noble
+  English: child; noble
+
+PILŌA
+  verb transitive: to hang something
+  Spanish: colgar
+  English: to hang
+
+PĪNĀHUA
+  verb reflexive: to be ashamed
+  Spanish: avergonzarse
+  English: to be ashamed
+
+PIPILTIN
+  noun plural: nobles, lords
+  Spanish: nobles
+  English: nobles
+  Singular: PILLI
+
+PITZĀHUA
+  verb intransitive: to become thin
+  Spanish: adelgazar
+  English: to become thin
+
+PIYA
+  verb transitive: to guard, to keep
+  Spanish: guardar
+  English: to guard
+
+PŌCHTĒCATL
+  noun: merchant, trader
+  Spanish: mercader
+  English: merchant
+
+POHPOLHUIA
+  verb transitive: to forgive
+  Spanish: perdonar
+  English: to forgive
+
+POHUA
+  verb transitive: to count, to read
+  Spanish: contar, leer
+  English: to count, to read
+
+PŌHUA
+  verb transitive: to count
+  Spanish: contar
+  English: to count
+
+POLOA
+  verb transitive: to lose, to destroy
+  Spanish: perder
+  English: to lose
+
+PŌPŌCA
+  verb inanimate: to smoke
+  Spanish: humear
+  English: to smoke
+
+========================================
+  Q
+========================================
+
+QUECHŌLLI
+  ornithology: spoonbill (bird)
+  Also: name of a month
+
+QUĒMĀCA
+  adverb: yes (emphatic)
+  Spanish: sí
+  English: yes
+
+QUĒMMAN
+  adverb: when, sometime
+  English: when
+
+QUĒNI
+  adverb: how
+  Spanish: cómo
+  English: how
+
+QUETZALLI
+  noun: precious feather (quetzal)
+  Spanish: pluma de quetzal
+  English: quetzal feather
+
+QUETZALCŌĀTL
+  deity name: "Feathered Serpent"
+  Major deity of Mesoamerica
+  Form: on QUETZALLI and CŌĀTL
+
+QUETZALTŌTŌTL
+  noun: quetzal bird
+  English: quetzal bird
+  Form: on QUETZALLI and TŌTŌTL
+
+QUI-
+  object prefix: him, her, it
+  English: him, her, it
+
+QUĪZA
+  verb intransitive: to come out, to leave
+  Spanish: salir
+  English: to come out
+
+QUILIT
+  See QUILITL
+
+QUILITL
+  noun: edible greens, vegetables
+  Spanish: quelite
+  English: greens, vegetables
+
+QUIMĪLLI
+  noun: bundle, package
+  Spanish: bulto
+  English: bundle
+
+========================================
+  T
+========================================
+
+TAMACHIHUA
+  verb transitive: to measure
+  Spanish: medir
+  English: to measure
+
+TAPALCATL
+  noun: potsherd, pottery fragment
+  Spanish: tepalcate
+  English: potsherd
+
+TECA
+  verb transitive: to lay down, to spread
+  Spanish: tender
+  English: to lay down
+
+TĒCUĀNI
+  noun: wild beast, predator
+  Spanish: fiera
+  English: wild beast
+
+TĒCUHTLI
+  See TĒUCTLI
+
+TĒHUA
+  verb intransitive: to depart
+  Spanish: partir
+  English: to depart
+
+TEHUILŌTL
+  noun: glass, crystal
+  Spanish: cristal
+  English: glass
+
+TĒIXTLI
+  noun: face
+  Form: on TĒ- and ĪXTLI
+
+TĒLPŌCHTLI
+  noun: young man, youth
+  Spanish: joven
+  English: young man
+
+TEMA
+  verb transitive: to fill
+  Spanish: llenar
+  English: to fill
+
+TEMACHTIA
+  verb transitive: to teach
+  Spanish: enseñar
+  English: to teach
+
+TEMĀZCALLI
+  noun: sweat bath, steam bath
+  Spanish: temazcal
+  English: sweat bath
+
+TĒMI
+  verb transitive: to be full
+  Spanish: estar lleno
+  English: to be full
+
+TEMOA
+  verb transitive: to search, to seek
+  Spanish: buscar
+  English: to search
+
+TENŌCHTITLAN
+  toponym: capital city of the Aztec empire
+  Form: on TETL, NŌCHTLI, and -TLAN
+
+TEŌCALLI
+  noun: temple, pyramid
+  Spanish: templo
+  English: temple
+  Form: on TEŌTL and CALLI
+
+TEŌTL
+  noun: god, deity; sacred
+  Spanish: dios
+  English: god
+
+TEŌXIHUITL
+  noun: turquoise
+  Spanish: turquesa
+  English: turquoise
+  Form: on TEŌTL and XIHUITL
+
+TEPĒTL
+  noun: mountain, hill
+  Spanish: cerro, montaña
+  English: mountain
+
+TEPĪTZIN
+  diminutive: a little, small
+  English: a little
+
+TEQUI
+  verb transitive: to cut
+  Spanish: cortar
+  English: to cut
+
+TEQUITL
+  noun: work, tribute, task
+  Spanish: trabajo, tributo
+  English: work, tribute
+
+TETL
+  noun: stone, rock
+  Spanish: piedra
+  English: stone
+
+TĒUCTLI
+  noun: lord, ruler
+  Spanish: señor
+  English: lord
+
+TEXCALLI
+  noun: rocky place, crag
+  Spanish: peñasco
+  English: crag
+
+TEZCATL
+  noun: mirror
+  Spanish: espejo
+  English: mirror
+
+TEZCATLĪPŌCA
+  deity name: "Smoking Mirror"
+  Major deity, god of fate and night
+  Form: on TEZCATL, TLĪ-LLI, and PŌCTLI
+
+TILMAHMATLI
+  See TILMAHTLI
+
+TILMAHTLI
+  noun: cloak, cape
+  Spanish: tilma, manta
+  English: cloak, cape
+
+TĪZA
+  noun: chalk
+  Spanish: tiza
+  English: chalk
+
+TLĀCATL
+  noun: person, human being
+  Spanish: persona
+  English: person
+  Plural: TLĀCAH
+
+TLACHIHUALŌYAN
+  noun: place of creation
+  Form: on CHIHUA
+
+TLACHINOLLI
+  noun: burned field; war
+  Spanish: campo quemado; guerra
+  Form: on CHINOA
+
+TLACŌTLI
+  noun: slave
+  Spanish: esclavo
+  English: slave
+
+TLACUA
+  verb intransitive: to eat
+  Spanish: comer
+  English: to eat
+
+TLACUALLI
+  noun: food
+  Spanish: comida
+  English: food
+  Form: on TLACUA
+
+TLĀHUA
+  verb transitive: to make drunk
+  Spanish: emborrachar
+  English: to make drunk
+
+TLAHTLACŌLLI
+  noun: sin, transgression
+  Spanish: pecado
+  English: sin
+
+TLAHTOĀNI
+  noun: ruler, speaker, king
+  Spanish: gobernante, rey
+  English: ruler, king
+  Plural: TLAHTOHQUEH
+  Form: agentive on TLAHTOA
+
+TLAHTOA
+  verb intransitive: to speak, to rule
+  Spanish: hablar
+  English: to speak
+
+TLAHTOLLI
+  noun: speech, language, word
+  Spanish: palabra, lengua
+  English: speech, word
+
+TLAHTŌLLI
+  See TLAHTOLLI
+
+TLĀLPAN
+  locative: on the ground
+  Form: on TLĀLLI
+
+TLĀLLI
+  noun: earth, land, ground
+  Spanish: tierra
+  English: earth, land
+
+TLĀLŌC
+  deity name: "He who lies on the earth"
+  God of rain and fertility
+  Form: on TLĀLLI
+
+TLAMATINI
+  noun: wise person, sage
+  Spanish: sabio
+  English: sage, wise person
+  Plural: TLAMATINIMEH
+
+TLAMPA
+  locative: to the south
+  English: south
+
+TLĀPIA
+  verb transitive: to watch, to guard
+  Spanish: guardar
+  English: to guard
+
+TLAPŌHUALLI
+  noun: something counted; story
+  Form: on PŌHUA
+
+TLĀTLAUHQUI
+  adjective: red
+  Spanish: rojo
+  English: red
+
+TLAUĪLLI
+  noun: light, torch
+  Spanish: luz
+  English: light
+
+TLAXCALLI
+  noun: tortilla
+  Spanish: tortilla
+  English: tortilla
+
+TLAYECOA
+  verb intransitive: to fight, to battle
+  English: to fight
+
+TLAZOHCAMATI
+  verb transitive: to thank
+  Spanish: agradecer
+  English: to thank
+
+TLAZŌHTLI
+  adjective: precious, beloved
+  Spanish: precioso
+  English: precious
+
+TLAZOLLI
+  noun: trash, filth
+  Spanish: basura
+  English: trash
+
+TLEIN
+  interrogative: what
+  Spanish: qué
+  English: what
+
+TLĪLLI
+  noun: black color, ink
+  Spanish: negro, tinta
+  English: black, ink
+
+TŌCA
+  verb transitive: to follow
+  Spanish: seguir
+  English: to follow
+
+TŌCĀITL
+  noun: name
+  Spanish: nombre
+  English: name
+
+TOCHOMITL
+  noun: rabbit fur
+  Form: on TŌCHTLI and OMITL
+
+TŌCHTLI
+  noun: rabbit
+  Spanish: conejo
+  English: rabbit
+
+TŌLĪN
+  See TŌLLIN
+
+TŌLLIN
+  noun: rush, bulrush
+  Spanish: tule
+  English: bulrush
+
+TŌNAL
+  See TŌNALLI
+
+TŌNALLI
+  noun: sun; soul; day sign; heat
+  Spanish: sol; alma; día
+  English: sun; soul; day sign
+
+TŌNATIUH
+  noun: sun (the sun deity)
+  Spanish: sol
+  English: sun
+
+TŌPĪLLI
+  noun: staff, scepter
+  Spanish: bastón
+  English: staff
+
+TOTŌLIN
+  noun: turkey
+  Spanish: guajolote
+  English: turkey
+
+TŌTŌTL
+  noun: bird
+  Spanish: pájaro
+  English: bird
+
+TOXCATL
+  noun: dry thing; name of a month
+  Form: on HUĀQUI
+
+TZACUIA
+  verb transitive: to close, to shut
+  Spanish: cerrar
+  English: to close
+
+TZAHTZI
+  verb intransitive: to shout, to cry out
+  Spanish: gritar
+  English: to shout
+
+TZANATL
+  noun: grackle (bird)
+  Spanish: zanate
+  English: grackle
+
+TZICOA
+  verb transitive: to stop, to detain
+  Spanish: detener
+  English: to stop
+
+TZICTLI
+  noun: chewing gum (chicle)
+  Spanish: chicle
+  English: chicle, gum
+
+TZĪNTLI
+  noun: buttocks; base
+  Spanish: nalgas; base
+  English: buttocks; base
+
+TZOMPANTLI
+  noun: skull rack
+  Spanish: tzompantli
+  English: skull rack
+
+========================================
+  TL
+========================================
+
+TLAAHCICACAQUINI
+  noun: one who perfectly understands something
+  Spanish: comprehendedor de la cosa que se dice
+  Form: eventual on AHCICĀCAQUI
+
+TLAAHCICAITTALIZTLI
+  noun: complete knowledge of something
+  Spanish: razón natural (Molina)
+  Form: action noun on AHCICĀITTA
+
+TLAAHCICATEMOĀNI
+  noun: one who searches for something with care
+  Form: eventual on AHCICĀTEMOA
+
+TLAAHCICATEMOLIZTLI
+  noun: active search
+  Form: action noun on AHCICĀTEMOA
+
+TLAĀHUILILĪZTLI
+  noun: watering, irrigation
+  Form: action noun on ĀHUILIA
+
+TLAĀNTLI
+  participle: separated, set apart, unsheathed, unearthed
+  Form: object noun on ĀNA
+
+========================================
+  X
+========================================
+
+XALLI
+  noun: sand
+  Spanish: arena
+  English: sand
+
+XIHUITL
+  noun: year; turquoise; leaf, herb
+  Spanish: año; turquesa; hierba
+  English: year; turquoise; herb
+
+XĪLŌTL
+  noun: young corn cob
+  Spanish: jilote
+  English: young corn cob
+
+XĪMOA
+  verb transitive: to shave, to scrape
+  Spanish: rasurar
+  English: to shave
+
+XĪMMATL
+  noun: foot
+  Form: variant of XOCOMITL?
+
+XIUHCŌĀTL
+  noun: fire serpent; year serpent
+  Form: on XIHUITL and CŌĀTL
+
+XIUHTŌTŌTL
+  noun: lovely cotinga (bird)
+  English: lovely cotinga
+  Form: on XIHUITL and TŌTŌTL
+
+XĪUHTZĪNCUITL
+  noun: plant
+  Form: on XIHUITL
+
+XŌCHITL
+  noun: flower
+  Spanish: flor
+  English: flower
+
+XŌCHĪUH
+  perfect on XŌCHITI: to blossom
+
+XŌCŌITL
+  noun: plum, sour fruit
+  Spanish: ciruela
+  English: plum
+
+XOCOLĀTL
+  noun: chocolate
+  Spanish: chocolate
+  English: chocolate
+  Etymology: possibly XOCOC + ATL
+
+XOCOYO
+  noun: youngest child
+  Spanish: el menor
+  English: youngest child
+
+XŌLŌTL
+  deity name: god associated with Venus and underworld
+  Also: servant, slave; twin; deformity
+
+XŌMITL
+  noun: foot, leg
+  Spanish: pie
+
+XŌPAN
+  noun: spring, rainy season
+  Spanish: primavera
+  English: spring
+
+XOXŌUHQUI
+  adjective: green, blue-green
+  Spanish: verde
+  English: green
+
+========================================
+  Y
+========================================
+
+YĀHUI
+  verb intransitive: to go
+  Spanish: ir
+  English: to go
+  See: YAUH
+
+YANCUĪC
+  adjective: new
+  Spanish: nuevo
+  English: new
+
+YAŌTL
+  noun: enemy; war
+  Spanish: enemigo; guerra
+  English: enemy; war
+
+YAŌYŌTL
+  noun: war, warfare
+  Spanish: guerra
+  English: war
+
+YAUH
+  verb intransitive: to go
+  Spanish: ir
+  English: to go
+  Preterite: YĀUH
+
+YĒ
+  adverb: already
+  Spanish: ya
+  English: already
+
+YĒCCAN
+  adverb: now, recently
+  Form: on YĒ and -CAN
+
+YECTLI
+  adjective: good, correct
+  Spanish: bueno
+  English: good
+
+YĒHUĀTL
+  pronoun: he, she, it
+  Spanish: él, ella
+  English: he, she, it
+
+YĒHUECAUH
+  adverb: long ago
+  Spanish: hace mucho tiempo
+  English: long ago
+
+YŌHUA
+  verb inanimate: to become night
+  Spanish: anochecer
+  English: to become night
+
+YOHUALLAN
+  adverb: at night
+  Form: on YOHUALLI
+
+YOHUALLI
+  noun: night
+  Spanish: noche
+  English: night
+
+YŌLCĀTL
+  noun: animal, living thing
+  Spanish: animal
+  English: animal
+  Form: on YŌLLI and -CATL
+
+YŌLLŌTL
+  noun: heart
+  Spanish: corazón
+  English: heart
+
+========================================
+  Z
+========================================
+
+ZA
+  See ZAN
+
+ZACATL
+  noun: grass, straw, hay
+  Spanish: zacate
+  English: grass, hay
+
+ZACUIA
+  See TZACUIA
+
+ZĀLIN
+  noun: quail
+  Spanish: codorniz
+  English: quail
+
+ZAN
+  adverb: only, just
+  Spanish: sólo
+  English: only, just
+
+ZĀYŌLĪN
+  noun: fly
+  Spanish: mosca
+  English: fly
+
+ZOQUITL
+  noun: mud, clay
+  Spanish: lodo, barro
+  English: mud, clay
+
+================================================================================
+END OF DICTIONARY
+================================================================================
+
+NOTES ON USAGE:
+- Macrons (ā, ē, ī, ō, ū) indicate long vowels
+- Many entries include scientific names for plants and animals
+- References to "Sah" indicate the Florentine Codex by Sahagún
+- "Molina" refers to Alonso de Molina's 1571 vocabulary
+- Botanical and zoological entries include modern scientific classifications
+
+SOURCE:
+Dictionnaire de la langue nahuatl classique
+Compiled by Alexis Wimmer
+https://www.malinal.net/
+
+================================================================================
