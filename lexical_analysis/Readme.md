@@ -45,6 +45,9 @@ Tequistlatecan
 └── Chontal (various) ................ 94.2% complete
 ```
 
+![Language Family Structure Summary]([path/to/your/image.png](https://github.com/chemvatho/isthmian-script/blob/main/lexical_analysis/analysis_summary_figure.png))
+
+
 ## Phoneme Inventories
 
 ### Proto-Mixtec Reconstruction Phonemes
