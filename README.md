@@ -264,10 +264,10 @@ If you use this code or methodology, please cite:
 
 ```bibtex
 @software{isthmian_bayesian,
-  author = {[Author Name]},
+  author = {[Chem Vatho]},
   title = {Bayesian Model Comparison for Isthmian Script Language Affiliation},
-  year = {2024},
-  url = {https://github.com/[username]/isthmian-bayesian}
+  year = {2025},
+  url = {https://github.com/chemvatho/isthmian-script}
 }
 ```
 
